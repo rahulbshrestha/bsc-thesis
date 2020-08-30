@@ -9,7 +9,13 @@
       <maxCardinality>5</maxCardinality>
     </resource>
   </resources>
-  <overrides/>
+  <overrides>
+    <override>
+      <subject>http://www.rock-robotics.org/2017/11/vrp#Vehicle</subject>
+      <property>http://www.rock-robotics.org/2014/01/om-schema#nominalVelocity</property>
+      <value>2</value>
+    </override>
+  </overrides>
   <constants>
     <location>
       <id>l3</id>
@@ -97,7 +103,7 @@
         </location>
       </spatial-requirement>
       <temporal-requirement>
-        <from>t2</from>
+        <from>t3</from>
         <to>t5</to>
       </temporal-requirement>
       <resource-requirement>
@@ -114,7 +120,7 @@
         </location>
       </spatial-requirement>
       <temporal-requirement>
-        <from>t3</from>
+        <from>t4</from>
         <to>t6</to>
       </temporal-requirement>
       <resource-requirement>

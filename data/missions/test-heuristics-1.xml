@@ -2,67 +2,76 @@
 <mission>
   <name>heuristics-test-1</name>
   <description/>
-  <organization_model>http://www.rock-robotics.org/2017/11/vrp</organization_model>
+
+<organization_model>http://www.rock-robotics.org/2017/11/vrp</organization_model>
   <resources>
     <resource>
       <model>http://www.rock-robotics.org/2017/11/vrp#Vehicle</model>
       <maxCardinality>5</maxCardinality>
     </resource>
   </resources>
-  <overrides/>
+  <overrides>
+    <override>
+      <subject>http://www.rock-robotics.org/2017/11/vrp#Vehicle</subject>
+
+<property>http://www.rock-robotics.org/2014/01/om-schema#nominalVelocity</property>
+      <value>2</value>
+    </override>
+  </overrides>
+
   <constants>
     <location>
       <id>l8</id>
-      <x>500</x>
-      <y>750</y>
+      <x>50</x>
+      <y>75</y>
       <z>0</z>
     </location>
     <location>
       <id>l7</id>
-      <x>2500</x>
-      <y>1000</y>
+      <x>250</x>
+      <y>100</y>
       <z>0</z>
     </location>
     <location>
       <id>l3</id>
-      <x>1000</x>
-      <y>1000</y>
+      <x>100</x>
+      <y>100</y>
       <z>0</z>
     </location>
     <location>
       <id>l6</id>
-      <x>-1000</x>
-      <y>-1000</y>
+      <x>-100</x>
+      <y>-100</y>
       <z>0</z>
     </location>
     <location>
       <id>l5</id>
       <x>0</x>
-      <y>-1000</y>
+      <y>-100</y>
       <z>0</z>
     </location>
     <location>
       <id>l9</id>
-      <x>1000</x>
-      <y>-300</y>
+      <x>100</x>
+      <y>-30</y>
       <z>0</z>
     </location>
     <location>
       <id>l4</id>
-      <x>-1000</x>
+      <x>-100</x>
       <y>0</y>
       <z>0</z>
     </location>
     <location>
       <id>l2</id>
-      <x>1000</x>
+      <x>100</x>
       <y>0</y>
       <z>0</z>
     </location>
     <location>
       <id>l10</id>
-      <x>-2000</x>
-      <y>2000</y>
+      <x>-200</x>
+      <y>200</y>
       <z>0</z>
     </location>
     <location>
@@ -97,7 +106,7 @@
         </location>
       </spatial-requirement>
       <temporal-requirement>
-        <from>t2</from>
+        <from>t3</from>
         <to>t5</to>
       </temporal-requirement>
       <resource-requirement>

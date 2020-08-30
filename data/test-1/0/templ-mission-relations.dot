@@ -1,0 +1,922 @@
+digraph GraphvizGraph {
+	graph [bb="0,0,6342,551",
+		concentrate=false,
+		dpi="96,0",
+		overlap=false,
+		pad="0,2",
+		root="PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 3
+            \
+restriction: MIN
+    @[t0,t1) (v:21)",
+		splines=true
+	];
+	node [fixedsize=false,
+		label="\N",
+		pin=false,
+		pos="0,0",
+		shape=box,
+		width=0
+	];
+	edge [label=o];
+	"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 3
+            \
+restriction: MIN
+    @[t0,t1) (v:21)"	 [height=2.4028,
+		pos="191,464.5",
+		width=5.3056];
+	"
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)"	 [height=4.5417,
+		pos="1173,163.5",
+		width=5.0972];
+	"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 3
+            \
+restriction: MIN
+    @[t0,t1) (v:21)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)" [key="inducedBy (e:15)",
+	label="inducedBy (e:15)",
+	lp="522.5,352.5",
+	pos="e,989.45,206.1 382.12,381.17 385.09,380.09 388.06,379.03 391,378 588.25,308.68 819.83,247.6 979.51,208.52"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:19)" [height=2.4028,
+	pos="591,464.5",
+	width=5.3056];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:19)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)" [key="inducedBy (e:14)",
+label="inducedBy (e:14)",
+lp="860.5,352.5",
+pos="e,989.31,258.5 758.56,377.84 827.8,342.03 908.48,300.31 980.16,263.23"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CREX
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 2
+            \
+restriction: MIN
+    @[t0,t1) (v:18)" [height=2.4028,
+pos="982,464.5",
+width=5.0556];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CREX
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 2
+            \
+restriction: MIN
+    @[t0,t1) (v:18)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)" [key="inducedBy (e:13)",
+label="inducedBy (e:13)",
+lp="1102.5,352.5",
+pos="e,1069.2,327.03 1037,377.84 1045.5,364.41 1054.6,350.15 1063.8,335.61"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CREX
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:17)" [height=2.4028,
+pos="1364,464.5",
+width=5.0556];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CREX
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:17)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)" [key="inducedBy (e:12)",
+label="inducedBy (e:12)",
+lp="1344.5,352.5",
+pos="e,1276.8,327.03 1309,377.84 1300.5,364.41 1291.4,350.15 1282.2,335.61"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 3
+            \
+restriction: MIN
+    @[t0,t1) (v:16)" [height=2.4028,
+pos="1754,464.5",
+width=5.2778];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 3
+            \
+restriction: MIN
+    @[t0,t1) (v:16)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)" [key="inducedBy (e:11)",
+label="inducedBy (e:11)",
+lp="1597.5,352.5",
+pos="e,1356.6,258.64 1586.7,377.84 1517.7,342.08 1437.3,300.4 1365.8,263.36"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:15)" [height=2.4028,
+pos="2152,464.5",
+width=5.2778];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:15)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t0
+    to:   t1
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CREX
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    \
+http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:20)" [key="inducedBy (e:10)",
+label="inducedBy (e:10)",
+lp="1938.5,352.5",
+pos="e,1356.5,206.16 1961.8,381.17 1958.9,380.09 1955.9,379.03 1953,378 1756.5,308.66 1525.7,247.63 1366.4,208.58"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 1
+            \
+restriction: MIN
+    @[t5,t10) (v:14)" [height=2.4028,
+pos="2551,464.5",
+width=5.3056];
+"
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t5
+    to:   t10
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:13)" [height=2.8472,
+pos="2751,163.5",
+width=5.0972];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 1
+            \
+restriction: MIN
+    @[t5,t10) (v:14)" -> "
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t5
+    to:   t10
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:13)" [key="inducedBy (e:9)",
+label="inducedBy (e:9)",
+lp="2672,352.5",
+pos="e,2682.9,266.04 2608.6,377.84 2630,345.66 2654.5,308.7 2677.2,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t5,t10) (v:12)" [height=2.4028,
+pos="2951,464.5",
+width=5.3056];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    lander
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t5,t10) (v:12)" -> "
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: lander
+TemporalRequirement:
+    from: t5
+    to:   t10
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:13)" [key="inducedBy (e:8)",
+label="inducedBy (e:8)",
+lp="2925,352.5",
+pos="e,2819.1,266.04 2893.4,377.84 2872,345.66 2847.5,308.7 2824.8,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:11)" [height=2.4028,
+pos="3351,464.5",
+width=5.3056];
+"
+SpatioTemporalRequirement (id:2)
+    SpatialRequirement:
+        Location: b1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:10)" [height=2.8472,
+pos="3551,163.5",
+width=5.0972];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:11)" -> "
+SpatioTemporalRequirement (id:2)
+    SpatialRequirement:
+        Location: b1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:10)" [key="inducedBy (e:7)",
+label="inducedBy (e:7)",
+lp="3472,352.5",
+pos="e,3482.9,266.04 3408.6,377.84 3430,345.66 3454.5,308.7 3477.2,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:9)" [height=2.4028,
+pos="3751,464.5",
+width=5.3056];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:9)" -> "
+SpatioTemporalRequirement (id:2)
+    SpatialRequirement:
+        Location: b1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:10)" [key="inducedBy (e:6)",
+label="inducedBy (e:6)",
+lp="3725,352.5",
+pos="e,3619.1,266.04 3693.4,377.84 3672,345.66 3647.5,308.7 3624.8,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 3
+            restriction: \
+MIN
+    @[t4,t7) (v:8)" [height=2.4028,
+pos="4151,464.5",
+width=5.3056];
+"
+SpatioTemporalRequirement (id:5)
+    SpatialRequirement:
+        Location: b1
+TemporalRequirement:
+    from: t4
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:7)" [height=2.8472,
+pos="4351,163.5",
+width=5.0972];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 3
+            restriction: \
+MIN
+    @[t4,t7) (v:8)" -> "
+SpatioTemporalRequirement (id:5)
+    SpatialRequirement:
+        Location: b1
+TemporalRequirement:
+    from: t4
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:7)" [key="inducedBy (e:5)",
+label="inducedBy (e:5)",
+lp="4272,352.5",
+pos="e,4282.9,266.04 4208.6,377.84 4230,345.66 4254.5,308.7 4277.2,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t7) (v:6)" [height=2.4028,
+pos="4551,464.5",
+width=5.3056];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t7) (v:6)" -> "
+SpatioTemporalRequirement (id:5)
+    SpatialRequirement:
+        Location: b1
+TemporalRequirement:
+    from: t4
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 3
+        maxCardinality: 18446744073709551615
+
+ (\
+v:7)" [key="inducedBy (e:4)",
+label="inducedBy (e:4)",
+lp="4524,352.5",
+pos="e,4419.1,266.04 4493.4,377.84 4472,345.66 4447.5,308.7 4424.8,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t8,t9) (v:5)" [height=2.4028,
+pos="4951,464.5",
+width=5.3056];
+"
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: b4
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:4)" [height=2.8472,
+pos="5151,163.5",
+width=5.0972];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t8,t9) (v:5)" -> "
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: b4
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:4)" [key="inducedBy (e:3)",
+label="inducedBy (e:3)",
+lp="5071,352.5",
+pos="e,5082.9,266.04 5008.6,377.84 5030,345.66 5054.5,308.7 5077.2,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:3)" [height=2.4028,
+pos="5351,464.5",
+width=5.3056];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:3)" -> "
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: b4
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:4)" [key="inducedBy (e:2)",
+label="inducedBy (e:2)",
+lp="5324,352.5",
+pos="e,5219.1,266.04 5293.4,377.84 5272,345.66 5247.5,308.7 5224.8,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b6
+            cardinality: 1
+            restriction: \
+MIN
+    @[t10,t14) (v:2)" [height=2.4028,
+pos="5751,464.5",
+width=5.3056];
+"
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: b6
+TemporalRequirement:
+    from: t10
+    to:   t14
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:1)" [height=2.8472,
+pos="5951,163.5",
+width=5.0972];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b6
+            cardinality: 1
+            restriction: \
+MIN
+    @[t10,t14) (v:2)" -> "
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: b6
+TemporalRequirement:
+    from: t10
+    to:   t14
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:1)" [key="inducedBy (e:1)",
+label="inducedBy (e:1)",
+lp="5871,352.5",
+pos="e,5882.9,266.04 5808.6,377.84 5830,345.66 5854.5,308.7 5877.2,274.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b6
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t10,t14) (v:0)" [height=2.4028,
+pos="6151,464.5",
+width=5.3056];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    b6
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t10,t14) (v:0)" -> "
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: b6
+TemporalRequirement:
+    from: t10
+    to:   t14
+\
+Resources: 
+    http://www.rock-robotics.org/2014/01/om-schema#SherpaTT
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (\
+v:1)" [key="inducedBy (e:0)",
+label="inducedBy (e:0)",
+lp="6124,352.5",
+pos="e,6019.1,266.04 6093.4,377.84 6072,345.66 6047.5,308.7 6024.8,274.63"];
+}

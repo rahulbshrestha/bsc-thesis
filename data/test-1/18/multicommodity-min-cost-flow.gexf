@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://gexf.net/1.1draft/gexf.xsd" version="1.1">
+  <graph mode="static" defaultedgetype="directed">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="class" type="string"/>
+      <attribute id="1" title="label" type="string"/>
+      <attribute id="MultiCommodityVertex-attribute-0" title="vertex_attributes" type="string"/>
+      <attribute id="RoleInfoTuple-attribute-0" title="role_info_attributes" type="string"/>
+      <attribute id="RoleInfoTuple-attribute-1" title="roles" type="string"/>
+      <attribute id="RoleInfoTuple-attribute-2" title="tagged_roles" type="string"/>
+      <attribute id="RoleInfoTuple-attribute-3" title="tuple" type="string"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="class" type="string"/>
+      <attribute id="1" title="label" type="string"/>
+      <attribute id="IntervalConstraint-attribute-0" title="bounds" type="string"/>
+      <attribute id="MultiCommodityEdge-attribute-0" title="edge_attributes" type="string"/>
+      <attribute id="RoleInfoWeightedEdge-attribute-0" title="roles" type="string"/>
+      <attribute id="RoleInfoWeightedEdge-attribute-1" title="tagged_roles" type="string"/>
+      <attribute id="RoleInfoWeightedEdge-attribute-2" title="weights" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="Tuple:&#10;    a:&#10;        depot&#10;    b:&#10;        __start__&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        depot&#10;    b:&#10;        __start__&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="1" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t0&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t0&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="10" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t3&#10;    roles (assigned):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t3&#10;    roles (assigned):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="11" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="12" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t4&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t4&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="13" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t5&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t5&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="14" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t6&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t6&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="15" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t7&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t7&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="16" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t8&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t8&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="17" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t9&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t9&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="18" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t10&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2, 3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t10&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2, 3&#10;    roles (required):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="19" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t11&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t11&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="2" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t0&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t0&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="20" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t11&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t11&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="21" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t11&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t11&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="22" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t12&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t12&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="23" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t13&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t13&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="24" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t14&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t14&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="25" label="Tuple:&#10;    a:&#10;        depot&#10;    b:&#10;        __end__&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        depot&#10;    b:&#10;        __end__&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="26" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t1&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t1&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="27" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t3&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t3&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="28" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t4&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t4&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="29" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t5&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t5&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="3" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t0&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t0&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="30" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t6&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t6&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="31" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t7&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t7&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="32" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t8&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t8&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="33" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t8&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t8&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="34" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t9&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t9&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="35" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t10&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t10&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="36" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t12&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t12&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="37" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t12&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t12&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="38" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t13&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t13&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="39" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t14&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t14&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="4" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t0&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t0&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="40" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t14&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t14&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="41" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t1&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t1&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="42" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t3&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t3&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="43" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="44" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t5&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t5&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="45" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t6&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t6&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="46" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t7&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t7&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="47" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t9&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t9&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="48" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t10&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t10&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="49" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t10&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t10&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="5" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t1&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t1&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 2, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 2, 4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="50" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t12&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t12&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="51" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t13&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t13&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="52" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t14&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t14&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="53" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t1&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t1&#10;    roles (assigned):&#10;        SherpaTT:&#10;            3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="54" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="55" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t5&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t5&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="56" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t6&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t6&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="57" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t7&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t7&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="58" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t8&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t8&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="59" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t9&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t9&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="6" label="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t2&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        lander&#10;    b:&#10;        t2&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="60" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t11&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t11&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="61" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t13&#10;    roles (assigned):&#10;        SherpaTT:&#10;            4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t13&#10;    roles (assigned):&#10;        SherpaTT:&#10;            4&#10;    roles (required):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="7" label="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t2&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 3&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b1&#10;    b:&#10;        t2&#10;    roles (assigned):&#10;        SherpaTT:&#10;            0, 3&#10;    roles (required):&#10;        SherpaTT:&#10;            0, 3&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="8" label="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t2&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b6&#10;    b:&#10;        t2&#10;    roles (assigned):&#10;        SherpaTT:&#10;            2&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+      <node id="9" label="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t2&#10;    roles (assigned):&#10;        SherpaTT:&#10;            4&#10;">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityVertex"/>
+          <attvalue for="1" value="Tuple:&#10;    a:&#10;        b4&#10;    b:&#10;        t2&#10;    roles (assigned):&#10;        SherpaTT:&#10;            4&#10;"/>
+          <attvalue for="MultiCommodityVertex-attribute-0" value="22 serialization::archive 15 0 0 0 0 0 0 0 0 0 0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="0" target="2">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="0" target="3">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="0" target="4">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="1" target="53">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="10" target="11">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="10" target="12">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="11" target="13">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="12" target="29">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="13" target="14">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="14" target="15">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="15" target="16">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="16" target="17">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="17" target="18">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="18" target="19">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="18" target="20">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 20 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="18" target="21">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="19" target="22">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="2" target="41">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="20" target="36">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="20" target="37">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 20 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="21" target="36">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="21" target="50">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="22" target="23">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="23" target="24">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="24" target="25">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="26" target="7">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="27" target="12">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="27" target="28">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="28" target="13">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="28" target="55">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="29" target="30">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="3" target="26">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="30" target="31">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="31" target="32">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="31" target="33">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 30 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="32" target="34">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="33" target="47">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="34" target="35">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="35" target="20">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="36" target="23">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="36" target="38">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="37" target="38">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 20 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="37" target="61">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="38" target="39">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="38" target="40">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 20 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="39" target="25">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="4" target="5">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="40" target="25">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="41" target="9">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="42" target="12">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="42" target="43">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="43" target="44">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="44" target="45">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="45" target="46">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="46" target="33">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="47" target="18">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 20 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="47" target="48">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="47" target="49">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 40 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="48" target="21">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="49" target="60">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="5" target="6">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="5" target="7">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="5" target="8">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="5" target="9">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="50" target="51">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="51" target="52">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="52" target="25">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="53" target="7">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="53" target="8">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="54" target="28">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="55" target="56">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="56" target="57">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="57" target="58">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="58" target="59">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="59" target="49">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="6" target="10">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="60" target="22">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="60" target="37">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="61" target="40">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="7" target="27">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="8" target="42">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="8" target="54">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="9" target="10">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 10 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="9" target="42">
+        <attvalues>
+          <attvalue for="0" value="MultiCommodityEdge"/>
+          <attvalue for="1" value=""/>
+          <attvalue for="MultiCommodityEdge-attribute-0" value="22 serialization::archive 15 4294967295 0 0 0 0 0 0"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

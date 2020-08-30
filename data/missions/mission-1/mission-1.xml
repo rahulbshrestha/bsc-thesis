@@ -10,7 +10,7 @@
 <resources>
     <resource>
         <model>http://www.rock-robotics.org/2014/01/om-schema#SherpaTT</model>
-        <maxCardinality>3</maxCardinality>
+        <maxCardinality>5</maxCardinality>
     </resource>
     <resource>
         <model>http://www.rock-robotics.org/2014/01/om-schema#CREX</model>
@@ -19,14 +19,6 @@
     <resource>
         <model>http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII</model>
         <maxCardinality>3</maxCardinality>
-    </resource>
-    <resource>
-        <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
-        <maxCardinality>16</maxCardinality>
-    </resource>
-    <resource>
-        <model>http://www.rock-robotics.org/2014/01/om-schema#BaseCamp</model>
-        <maxCardinality>5</maxCardinality>
     </resource>
 </resources>
 <constants>
@@ -115,18 +107,55 @@
                 <model>http://www.rock-robotics.org/2014/01/om-schema#CoyoteIII</model>
                 <minCardinality>3</minCardinality>
             </resource>
+        </resource-requirement>
+    </requirement>
+    <requirement id="1">
+        <spatial-requirement>
+            <location>
+                <id>lander</id>
+            </location>
+        </spatial-requirement>
+        <temporal-requirement>
+            <from>t5</from>
+            <to>t10</to>
+        </temporal-requirement>
+        <resource-requirement>
             <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
-                <minCardinality>16</minCardinality>
-            </resource>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#BaseCamp</model>
-                <minCardinality>5</minCardinality>
+                <model>http://www.rock-robotics.org/2014/01/om-schema#SherpaTT</model>
+                <minCardinality>1</minCardinality>
             </resource>
         </resource-requirement>
     </requirement>
-
-
+    <requirement id="2">
+        <spatial-requirement>
+            <location>
+                <id>b1</id>
+            </location>
+        </spatial-requirement>
+        <temporal-requirement>
+            <from>t2</from>
+            <to>t3</to>
+        </temporal-requirement>
+        <resource-requirement>
+            <resource>
+                <model>http://www.rock-robotics.org/2014/01/om-schema#SherpaTT</model>
+                <minCardinality>1</minCardinality>
+            </resource>
+        </resource-requirement>
+    </requirement>
+    <requirement id="3">
+        <spatial-requirement>
+            <location>
+                <id>b1</id>
+            </location>
+        </spatial-requirement>
+        <temporal-requirement>
+            <from>t3</from>
+            <to>t14</to>
+        </temporal-requirement>
+        <resource-requirement>
+        </resource-requirement>
+    </requirement>
     <requirement id="4">
         <spatial-requirement>
             <location>
@@ -138,22 +167,6 @@
             <to>t3</to>
         </temporal-requirement>
         <resource-requirement>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#LogisticHubProvider</model>
-                <minCardinality>1</minCardinality>
-            </resource>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#LocationImageProvider</model>
-                <minCardinality>1</minCardinality>
-            </resource>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#EmiPowerProvider</model>
-                <minCardinality>1</minCardinality>
-            </resource>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
-                <minCardinality>3</minCardinality>
-            </resource>
         </resource-requirement>
     </requirement>
     <requirement id="5">
@@ -168,8 +181,8 @@
         </temporal-requirement>
         <resource-requirement>
             <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#BaseCamp</model>
-                <minCardinality>1</minCardinality>
+                <model>http://www.rock-robotics.org/2014/01/om-schema#SherpaTT</model>
+                <minCardinality>3</minCardinality>
             </resource>
         </resource-requirement>
     </requirement>
@@ -184,14 +197,6 @@
             <to>t7</to>
         </temporal-requirement>
         <resource-requirement>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#LocationImageProvider</model>
-                <minCardinality>1</minCardinality>
-            </resource>
-              <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
-                <minCardinality>3</minCardinality>
-            </resource>
         </resource-requirement>
     </requirement>
     <requirement id="7">
@@ -206,8 +211,8 @@
         </temporal-requirement>
         <resource-requirement>
             <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
-                <minCardinality>3</minCardinality>
+                <model>http://www.rock-robotics.org/2014/01/om-schema#SherpaTT</model>
+                <minCardinality>1</minCardinality>
             </resource>
         </resource-requirement>
     </requirement>
@@ -223,7 +228,7 @@
         </temporal-requirement>
         <resource-requirement>
             <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
+                <model>http://www.rock-robotics.org/2014/01/om-schema#SherpaTT</model>
                 <minCardinality>1</minCardinality>
             </resource>
         </resource-requirement>
@@ -239,10 +244,6 @@
             <to>t14</to>
         </temporal-requirement>
         <resource-requirement>
-            <resource>
-                <model>http://www.rock-robotics.org/2014/01/om-schema#Payload</model>
-                <minCardinality>3</minCardinality>
-            </resource>
         </resource-requirement>
     </requirement>
 </requirements>

@@ -1,0 +1,5103 @@
+digraph GraphvizGraph {
+	graph [bb="0,0,9032.5,6114",
+		concentrate=false,
+		dpi="96,0",
+		overlap=false,
+		pad="0,2",
+		root="Tuple:
+    a:
+        b6
+    b:
+        t14
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:59)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t14 0 0 2",
+		splines=true
+	];
+	node [fixedsize=false,
+		label="\N",
+		pin=false,
+		pos="0,0",
+		shape=box,
+		width=0
+	];
+	edge [label=o];
+	"Tuple:
+    a:
+        b6
+    b:
+        t14
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:59)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t14 0 0 2"	 [height=4.2778,
+		pos="2320,154",
+		width=46.333];
+	"Tuple:
+    a:
+        b6
+    b:
+        t13
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:58)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t13 0 0 2"	 [height=4.2778,
+		pos="2322,573",
+		width=46.333];
+	"Tuple:
+    a:
+        b6
+    b:
+        t13
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:58)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t13 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t14
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:59)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t14 0 0 2" [key="capacity: +inf
+ (e:80)",
+	label="capacity: +inf
+ (e:80)",
+	lp="2360,363.5",
+	pos="e,2320.7,308.26 2321.3,418.76 2321.1,386.09 2320.9,351.49 2320.8,318.46"];
+"Tuple:
+    a:
+        b6
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:57)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.84000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+\
+00 2 b6 8 LOCATION 0 0 3 t12 0 0 2" [height=4.2778,
+	pos="2332,992",
+	width=52.861];
+"Tuple:
+    a:
+        b6
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:57)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.84000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+\
+00 2 b6 8 LOCATION 0 0 3 t12 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t13
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:58)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t13 0 0 2" [key="capacity: +inf
+ (e:78)",
+label="capacity: +inf
+ (e:78)",
+lp="2366,782.5",
+pos="e,2325.7,727.26 2328.3,837.76 2327.5,805.09 2326.7,770.49 2325.9,737.46"];
+"Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" [height=2.8194,
+pos="5848,573",
+width=19.222];
+"Tuple:
+    a:
+        b6
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:57)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.84000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+\
+00 2 b6 8 LOCATION 0 0 3 t12 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:79)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:79)",
+lp="4740.5,782.5",
+pos="e,5443.2,674.56 3655,837.99 3991.5,803.03 4352.8,769.13 4688,745 4891.2,730.37 4943.9,752.93 5146,727 5239.7,714.98 5339.3,696.6 \
+5433.2,676.68"];
+"Tuple:
+    a:
+        b6
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:56)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t11 0 0 2" [height=4.2778,
+pos="2338,1411",
+width=46.333];
+"Tuple:
+    a:
+        b6
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:56)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t11 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:57)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.84000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+\
+00 2 b6 8 LOCATION 0 0 3 t12 0 0 2" [key="capacity: +inf
+ (e:77)",
+label="capacity: +inf
+ (e:77)",
+lp="2374,1201.5",
+pos="e,2334.2,1146.3 2335.8,1256.8 2335.3,1224.1 2334.8,1189.5 2334.4,1156.5"];
+"Tuple:
+    a:
+        b6
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:55)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t10 0 0 2" [height=4.2778,
+pos="2572,1830",
+width=46.333];
+"Tuple:
+    a:
+        b6
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:55)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:56)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: +inf
+ (e:76)",
+label="capacity: +inf
+ (e:76)",
+lp="2508,1620.5",
+pos="e,2424.1,1565.3 2485.9,1675.8 2467.4,1642.7 2447.8,1607.6 2429.1,1574.2"];
+"Tuple:
+    a:
+        b6
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:54)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t9 0 0 2" [height=2.8194,
+pos="3588,2279",
+width=12.694];
+"Tuple:
+    a:
+        b6
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:54)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:55)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: +inf
+ (e:74)",
+label="capacity: +inf
+ (e:74)",
+lp="3210,2054.5",
+pos="e,2920.8,1984.1 3358.1,2177.4 3231.8,2121.6 3072.3,2051.1 2930.1,1988.3"];
+"Tuple:
+    a:
+        b1
+    b:
+        t10
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:25)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t10 0 0 2" [height=2.8194,
+pos="4715,1830",
+width=12.694];
+"Tuple:
+    a:
+        b6
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:54)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t10
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:25)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:75)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:75)",
+lp="4244.5,2054.5",
+pos="e,4409.7,1931.5 3792.8,2177.4 3908.5,2121.9 4056.6,2054.2 4192,2002 4216.8,1992.4 4223.7,1992.2 4249,1984 4297.8,1968.2 4349.5,1951.3 \
+4400,1934.7"];
+"Tuple:
+    a:
+        b6
+    b:
+        t8
+ (v:53)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t8 0 0 2" [height=2.1944,
+pos="906,2698",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t8
+ (v:53)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:54)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+ (e:73)",
+label="capacity: +inf
+ (e:73)",
+lp="2158,2488.5",
+pos="e,3326.3,2380.6 1106.6,2619 1183,2591.5 1271.5,2563 1354,2544 1688.2,2467.2 1777.9,2474.8 2120,2451 2231,2443.3 3011.3,2451.6 3121,\
+2433 3185.5,2422 3253.3,2403.8 3316.6,2383.7"];
+"Tuple:
+    a:
+        b6
+    b:
+        t7
+ (v:52)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t7 0 0 2" [height=2.1944,
+pos="906,3147",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t7
+ (v:52)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t8
+ (v:53)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+ (e:72)",
+label="capacity: +inf
+ (e:72)",
+lp="944,2922.5",
+pos="e,906,2777.2 906,3067.8 906,2989.2 906,2869.1 906,2787.2"];
+"Tuple:
+    a:
+        b6
+    b:
+        t6
+ (v:51)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t6 0 0 2" [height=2.1944,
+pos="906,3521",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t6
+ (v:51)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t7
+ (v:52)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+ (e:71)",
+label="capacity: +inf
+ (e:71)",
+lp="944,3334",
+pos="e,906,3226.2 906,3441.7 906,3381.6 906,3298.9 906,3236.4"];
+"Tuple:
+    a:
+        b6
+    b:
+        t5
+ (v:50)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t5 0 0 2" [height=2.1944,
+pos="906,3895",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t5
+ (v:50)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t6
+ (v:51)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+ (e:70)",
+label="capacity: +inf
+ (e:70)",
+lp="944,3708",
+pos="e,906,3600.2 906,3815.7 906,3755.6 906,3672.9 906,3610.4"];
+"Tuple:
+    a:
+        b6
+    b:
+        t4
+ (v:49)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t4 0 0 2" [height=2.1944,
+pos="906,4314",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t4
+ (v:49)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t5
+ (v:50)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+ (e:69)",
+label="capacity: +inf
+ (e:69)",
+lp="944,4104.5",
+pos="e,906,3974.3 906,4234.7 906,4163.4 906,4058.9 906,3984.6"];
+"Tuple:
+    a:
+        b6
+    b:
+        t3
+ (v:48)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t3 0 0 2" [height=2.1944,
+pos="906,4733",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t3
+ (v:48)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t4
+ (v:49)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:68)",
+label="capacity: +inf
+ (e:68)",
+lp="944,4538.5",
+pos="e,906,4393.3 906,4653.7 906,4582.4 906,4477.9 906,4403.6"];
+"Tuple:
+    a:
+        b6
+    b:
+        t2
+ (v:47)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t2 0 0 2" [height=2.1944,
+pos="906,5107",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t2
+ (v:47)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t3
+ (v:48)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+ (e:67)",
+label="capacity: +inf
+ (e:67)",
+lp="944,4912.5",
+pos="e,906,4812.2 906,5027.7 906,4967.6 906,4884.9 906,4822.4"];
+"Tuple:
+    a:
+        b6
+    b:
+        t1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t1 0 0 2" [height=2.1944,
+pos="2163,5541",
+width=12.208];
+"Tuple:
+    a:
+        b6
+    b:
+        t1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t2
+ (v:47)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:66)",
+label="capacity: +inf
+ (e:66)",
+lp="1977,5316.5",
+pos="e,1121.4,5186 2074.7,5462 1994.5,5395.6 1869.7,5305.2 1743,5264 1660.7,5237.2 1439.2,5260.9 1354,5246 1280.3,5233.1 1201.7,5211.5 \
+1131.3,5189.2"];
+"Tuple:
+    a:
+        b6
+    b:
+        t0
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:45)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t0 0 0 2" [height=2.8194,
+pos="2170,5960",
+width=12.694];
+"Tuple:
+    a:
+        b6
+    b:
+        t0
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:45)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: +inf
+ (e:64)",
+label="capacity: +inf
+ (e:64)",
+lp="2205,5750.5",
+pos="e,2164.3,5620.1 2168.3,5858.3 2167.1,5788.6 2165.6,5697 2164.5,5630.2"];
+"Tuple:
+    a:
+        b4
+    b:
+        t1
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:31)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t1 0 0 2" [height=2.8194,
+pos="3081,5541",
+width=12.694];
+"Tuple:
+    a:
+        b6
+    b:
+        t0
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:45)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t1
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:31)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: 10
+    roles (assigned):
+        SherpaTT:
+            3
+ (e:65)",
+label="capacity: 10
+    roles (assigned):
+        SherpaTT:
+            3
+ (e:65)",
+lp="2733.5,5750.5",
+pos="e,2860.3,5642.5 2390.8,5858.4 2530.2,5794.3 2709.9,5711.7 2851,5646.8"];
+"Tuple:
+    a:
+        b4
+    b:
+        t14
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:44)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t14 0 0 2" [height=3.2361,
+pos="4696,154",
+width=19.181];
+"Tuple:
+    a:
+        b4
+    b:
+        t13
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:43)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+\
+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t13 0 0 2" [height=2.8194,
+pos="4682,573",
+width=12.653];
+"Tuple:
+    a:
+        b4
+    b:
+        t13
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:43)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+\
+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t13 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t14
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:44)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t14 0 0 2" [key="capacity: +inf
+ (e:63)",
+label="capacity: +inf
+ (e:63)",
+lp="4728,363.5",
+pos="e,4692.1,270.66 4685.4,471.3 4687.3,413.94 4689.7,341.76 4691.8,280.74"];
+"Tuple:
+    a:
+        b4
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:42)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t12 0 0 2" [height=3.2361,
+pos="4943,992",
+width=19.181];
+"Tuple:
+    a:
+        b4
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:42)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t12 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t13
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:43)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+\
+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t13 0 0 2" [key="capacity: +inf
+ (e:61)",
+label="capacity: +inf
+ (e:61)",
+lp="4867,782.5",
+pos="e,4745.4,674.85 4870.3,875.29 4832.9,815.28 4787.6,742.54 4750.8,683.46"];
+"Tuple:
+    a:
+        b4
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:42)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t12 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" [key="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:62)",
+label="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:62)",
+lp="5502.5,782.5",
+pos="e,5628.6,674.56 5194.8,875.42 5327.8,813.82 5489.9,738.77 5619.4,678.85"];
+"Tuple:
+    a:
+        b4
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+4
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t11 0 0 2" [height=3.2361,
+pos="4715,1411",
+width=19.181];
+"Tuple:
+    a:
+        b4
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+4
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t11 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:57)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.84000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 5.34118202353157662e+06 0.00000000000000000e+\
+00 2 b6 8 LOCATION 0 0 3 t12 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:60)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:60)",
+lp="3932.5,1201.5",
+pos="e,3374,1146 4202,1294.4 4139.1,1281.2 4075.7,1268.4 4015,1257 3811.5,1218.6 3593.4,1181.4 3384,1147.6"];
+"Tuple:
+    a:
+        b4
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+4
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t11 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:42)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t12 0 0 2" [key="capacity: +inf
+ (e:59)",
+label="capacity: +inf
+ (e:59)",
+lp="4881,1201.5",
+pos="e,4879.4,1108.8 4778.5,1294.3 4808.4,1239.4 4844.1,1173.8 4874.6,1117.7"];
+"Tuple:
+    a:
+        b4
+    b:
+        t10
+ (v:40)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t10 0 0 2" [height=2.1944,
+pos="443,1830",
+width=12.306];
+"Tuple:
+    a:
+        b4
+    b:
+        t10
+ (v:40)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+4
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: +inf
+ (e:58)",
+label="capacity: +inf
+ (e:58)",
+lp="2399,1620.5",
+pos="e,4248.5,1527.6 637.91,1751 716.49,1722.4 808.8,1693.1 895,1676 1535.4,1548.9 1708.6,1607.2 2361,1583 2544.7,1576.2 3832.4,1585.9 \
+4015,1565 4087.8,1556.7 4164.1,1544.1 4238.4,1529.5"];
+"Tuple:
+    a:
+        b4
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:39)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t9 0 0 2" [height=4.2778,
+pos="1914,2279",
+width=33.292];
+"Tuple:
+    a:
+        b4
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:39)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:55)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: 36
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (e:57)",
+label="capacity: 36
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (e:57)",
+lp="2354.5,2054.5",
+pos="e,2346.2,1984.1 2140,2124.8 2203.8,2081.3 2273.3,2033.8 2337.6,1989.9"];
+"Tuple:
+    a:
+        b4
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:39)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t10
+ (v:40)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: +inf
+ (e:56)",
+label="capacity: +inf
+ (e:56)",
+lp="1324,2054.5",
+pos="e,668.21,1909 1364.2,2124.9 1211.8,2080.8 1046.6,2031.7 895,1984 824.2,1961.7 747.63,1936.2 677.99,1912.4"];
+"Tuple:
+    a:
+        b4
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:38)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t8 0 0 2" [height=4.2778,
+pos="2562,2698",
+width=33.292];
+"Tuple:
+    a:
+        b4
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:38)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:39)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+ (e:55)",
+label="capacity: +inf
+ (e:55)",
+lp="2315,2488.5",
+pos="e,2152.3,2433.1 2323.5,2543.8 2270.5,2509.5 2214.2,2473.1 2160.8,2438.6"];
+"Tuple:
+    a:
+        b4
+    b:
+        t7
+ (v:37)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t7 0 0 2" [height=2.1944,
+pos="1885,3147",
+width=12.208];
+"Tuple:
+    a:
+        b4
+    b:
+        t7
+ (v:37)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:38)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+ (e:54)",
+label="capacity: +inf
+ (e:54)",
+lp="2323,2922.5",
+pos="e,2329.8,2852 2004.5,3067.8 2092.1,3009.7 2213.9,2928.8 2321.4,2857.6"];
+"Tuple:
+    a:
+        b4
+    b:
+        t6
+ (v:36)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t6 0 0 2" [height=2.1944,
+pos="1885,3521",
+width=12.208];
+"Tuple:
+    a:
+        b4
+    b:
+        t6
+ (v:36)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t7
+ (v:37)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+ (e:53)",
+label="capacity: +inf
+ (e:53)",
+lp="1923,3334",
+pos="e,1885,3226.2 1885,3441.7 1885,3381.6 1885,3298.9 1885,3236.4"];
+"Tuple:
+    a:
+        b4
+    b:
+        t5
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t5 0 0 2" [height=2.1944,
+pos="1885,3895",
+width=12.208];
+"Tuple:
+    a:
+        b4
+    b:
+        t5
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t6
+ (v:36)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+ (e:52)",
+label="capacity: +inf
+ (e:52)",
+lp="1923,3708",
+pos="e,1885,3600.2 1885,3815.7 1885,3755.6 1885,3672.9 1885,3610.4"];
+"Tuple:
+    a:
+        b4
+    b:
+        t4
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:34)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t4 0 0 2" [height=2.8194,
+pos="2149,4314",
+width=12.694];
+"Tuple:
+    a:
+        b4
+    b:
+        t4
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:34)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t5
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+ (e:50)",
+label="capacity: +inf
+ (e:50)",
+lp="2071,4104.5",
+pos="e,1934.8,3974.1 2084.9,4212.3 2040.7,4142.2 1982.6,4049.9 1940.4,3983"];
+"Tuple:
+    a:
+        lander
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:5)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t5 0 0 2" [height=4.2778,
+pos="7834,3895",
+width=33.292];
+"Tuple:
+    a:
+        b4
+    b:
+        t4
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:34)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:5)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:51)",
+label="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:51)",
+lp="4650.5,4104.5",
+pos="e,6635.3,4048.4 2414.6,4212.4 2479.3,4191.5 2548.9,4172.2 2615,4160 3482.6,3999.4 3716,4091.6 4598,4067 5045.4,4054.5 6160.6,4079.2 \
+6625.1,4049.1"];
+"Tuple:
+    a:
+        b4
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.34000000000000000e+03 6 safety \
+3.28273783781885653e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 \
+serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t3 \
+0 0 2" [height=3.2361,
+pos="4847,4733",
+width=25.694];
+"Tuple:
+    a:
+        b4
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.34000000000000000e+03 6 safety \
+3.28273783781885653e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 \
+serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t3 \
+0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t4
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:34)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:48)",
+label="capacity: +inf
+ (e:48)",
+lp="4494,4538.5",
+pos="e,2409.1,4415.5 4550.2,4616.5 4406.4,4565.9 4229.8,4512.3 4066,4486 3906.8,4460.4 2774,4494.6 2615,4468 2550.3,4457.2 2482.3,4438.9 \
+2418.9,4418.7"];
+"Tuple:
+    a:
+        b1
+    b:
+        t4
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:19)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 4.80000000000000000e+03 6 safety 2.11651090834585331e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+\
+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t4 0 0 2" [height=4.2778,
+pos="4995,4314",
+width=65.861];
+"Tuple:
+    a:
+        b4
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.34000000000000000e+03 6 safety \
+3.28273783781885653e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 \
+serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t3 \
+0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t4
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:19)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 4.80000000000000000e+03 6 safety 2.11651090834585331e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+\
+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: 38
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (e:49)",
+label="capacity: 38
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (e:49)",
+lp="4982.5,4538.5",
+pos="e,4940.6,4468.1 4888.2,4616.3 4903.4,4573.4 4920.9,4523.9 4937.2,4477.6"];
+"Tuple:
+    a:
+        b4
+    b:
+        t2
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:32)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t2 0 0 2" [height=2.8194,
+pos="5178,5107",
+width=12.694];
+"Tuple:
+    a:
+        b4
+    b:
+        t2
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:32)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.34000000000000000e+03 6 safety \
+3.28273783781885653e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 \
+serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t3 \
+0 0 2" [key="capacity: +inf
+ (e:47)",
+label="capacity: +inf
+ (e:47)",
+lp="5071,4912.5",
+pos="e,4950.2,4849.6 5088,5005.3 5047.6,4959.6 4999.5,4905.3 4956.9,4857.2"];
+"Tuple:
+    a:
+        b4
+    b:
+        t1
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:31)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t2
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:32)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:46)",
+label="capacity: +inf
+ (e:46)",
+lp="4634,5316.5",
+pos="e,4863.3,5208.5 3358.2,5439.4 3419.7,5419.7 3485,5400.8 3547,5387 4055.6,5273.3 4200.8,5352 4711,5246 4757.5,5236.3 4806,5224.2 \
+4853.5,5211.2"];
+"Tuple:
+    a:
+        b4
+    b:
+        t0
+ (v:30)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t0 0 0 2" [height=2.1944,
+pos="3084,5960",
+width=12.208];
+"Tuple:
+    a:
+        b4
+    b:
+        t0
+ (v:30)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t1
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:31)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: +inf
+ (e:45)",
+label="capacity: +inf
+ (e:45)",
+lp="3121,5750.5",
+pos="e,3081.7,5642.6 3083.4,5880.7 3083,5816.2 3082.3,5724.5 3081.8,5652.6"];
+"Tuple:
+    a:
+        b1
+    b:
+        t14
+ (v:29)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t14 0 0 2" [height=2.1944,
+pos="5848,154",
+width=12.306];
+"Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t14
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:44)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t14 0 0 2" [key="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:43)",
+label="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:43)",
+lp="5393.5,363.5",
+pos="e,5016.4,270.54 5568.8,471.44 5405.1,411.92 5197.5,336.41 5025.9,273.97"];
+"Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t14
+ (v:29)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t14 0 0 2" [key="capacity: +inf
+ (e:42)",
+label="capacity: +inf
+ (e:42)",
+lp="5886,363.5",
+pos="e,5848,233.1 5848,471.3 5848,401.61 5848,310.04 5848,243.19"];
+"Tuple:
+    a:
+        lander
+    b:
+        t14
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:14)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 \
+6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t14 0 0 2" [height=2.8194,
+pos="6888,154",
+width=12.694];
+"Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t14
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:14)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 \
+6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t14 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:44)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:44)",
+lp="6482.5,363.5",
+pos="e,6636,255.52 6100.1,471.44 6259.5,407.2 6465.2,324.34 6626.4,259.38"];
+"Tuple:
+    a:
+        b1
+    b:
+        t12
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t12 0 0 2" [height=2.1944,
+pos="6095,992",
+width=12.306];
+"Tuple:
+    a:
+        b1
+    b:
+        t12
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t12 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t13
+    roles (assigned):
+        SherpaTT:
+            0, 4
+ (v:28)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety 2.14638763942937350e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 \
+10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 \
+b1 8 LOCATION 0 0 3 t13 0 0 2" [key="capacity: +inf
+ (e:41)",
+label="capacity: +inf
+ (e:41)",
+lp="6025,782.5",
+pos="e,5907.9,674.62 6048.3,912.7 6010,847.84 5955.5,755.39 5913,683.31"];
+"Tuple:
+    a:
+        b1
+    b:
+        t11
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:26)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t11 0 0 2" [height=2.8194,
+pos="5906,1411",
+width=12.694];
+"Tuple:
+    a:
+        b1
+    b:
+        t11
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:26)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t11 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t12
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+ (v:42)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t12 0 0 2" [key="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:40)",
+label="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:40)",
+lp="5535.5,1201.5",
+pos="e,5210.9,1108.5 5672.6,1309.4 5536.3,1250.1 5363.5,1174.9 5220.2,1112.6"];
+"Tuple:
+    a:
+        b1
+    b:
+        t11
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:26)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t11 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t12
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t12 0 0 2" [key="capacity: +inf
+ (e:39)",
+label="capacity: +inf
+ (e:39)",
+lp="6049,1201.5",
+pos="e,6059.3,1071.1 5951.9,1309.3 5983.4,1239.3 6025,1147.3 6055.1,1080.4"];
+"Tuple:
+    a:
+        b1
+    b:
+        t10
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:25)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+4
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:38)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:38)",
+lp="4767.5,1620.5",
+pos="e,4715,1527.7 4715,1728.3 4715,1670.9 4715,1598.8 4715,1537.7"];
+"Tuple:
+    a:
+        b1
+    b:
+        t10
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:25)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t11
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:26)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: +inf
+ (e:37)",
+label="capacity: +inf
+ (e:37)",
+lp="5420,1620.5",
+pos="e,5617.4,1512.5 5003.7,1728.4 5186.7,1664 5423,1580.9 5607.8,1515.9"];
+"Tuple:
+    a:
+        b1
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:24)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t9 0 0 2" [height=2.8194,
+pos="4520,2279",
+width=12.694];
+"Tuple:
+    a:
+        b1
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:24)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3
+ (v:55)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 8 required 3 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: 38
+    roles (assigned):
+        SherpaTT:
+            3
+ (e:36)",
+label="capacity: 38
+    roles (assigned):
+        SherpaTT:
+            3
+ (e:36)",
+lp="4465.5,2054.5",
+pos="e,4240.2,1982.5 4466.1,2177.4 4427.7,2115.7 4369.9,2041.5 4297,2002 4286.5,1996.3 4270.5,1990.6 4250,1985"];
+"Tuple:
+    a:
+        b1
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:24)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t10
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:25)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: +inf
+ (e:35)",
+label="capacity: +inf
+ (e:35)",
+lp="4673,2054.5",
+pos="e,4670.9,1931.6 4564.1,2177.4 4594.7,2107.1 4635.3,2013.5 4666.7,1941.2"];
+"Tuple:
+    a:
+        b1
+    b:
+        t8
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:23)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t8 0 0 2" [height=2.8194,
+pos="4480,2698",
+width=12.694];
+"Tuple:
+    a:
+        b1
+    b:
+        t8
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:23)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:24)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+ (e:34)",
+label="capacity: +inf
+ (e:34)",
+lp="4541,2488.5",
+pos="e,4510.3,2380.8 4489.7,2596.3 4495.6,2534.2 4503.2,2454.8 4509.3,2390.9"];
+"Tuple:
+    a:
+        b1
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:22)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t7 0 0 2" [height=4.2778,
+pos="4480,3147",
+width=59.375];
+"Tuple:
+    a:
+        b1
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:22)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (v:38)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+\
+00 2 b4 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: 32
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (e:32)",
+label="capacity: 32
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2
+ (e:32)",
+lp="3745.5,2922.5",
+pos="e,3220.1,2852.1 3821.9,2993 3630.8,2948.2 3421.9,2899.3 3230.1,2854.4"];
+"Tuple:
+    a:
+        b1
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:22)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t8
+    roles (assigned):
+        SherpaTT:
+            3
+ (v:23)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+ (e:31)",
+label="capacity: +inf
+ (e:31)",
+lp="4518,2922.5",
+pos="e,4480,2799.7 4480,2992.8 4480,2932.7 4480,2865.2 4480,2809.9"];
+"Tuple:
+    a:
+        lander
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 4
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:8)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::\
+archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t8 0 0 2" [height=4.2778,
+pos="6389,2698",
+width=39.819];
+"Tuple:
+    a:
+        b1
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:22)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 4
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:8)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::\
+archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:33)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:33)",
+lp="5658.5,2922.5",
+pos="e,5734,2852.1 5135,2993 5325.2,2948.2 5533.2,2899.3 5724,2854.4"];
+"Tuple:
+    a:
+        b1
+    b:
+        t6
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:21)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t6 0 0 2" [height=4.2778,
+pos="4480,3521",
+width=59.375];
+"Tuple:
+    a:
+        b1
+    b:
+        t6
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:21)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:22)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+ (e:30)",
+label="capacity: +inf
+ (e:30)",
+lp="4518,3334",
+pos="e,4480,3301.1 4480,3367 4480,3348.6 4480,3329.9 4480,3311.4"];
+"Tuple:
+    a:
+        b1
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:20)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t5 0 0 2" [height=4.2778,
+pos="4480,3895",
+width=59.375];
+"Tuple:
+    a:
+        b1
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:20)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t6
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:21)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+ (e:29)",
+label="capacity: +inf
+ (e:29)",
+lp="4518,3708",
+pos="e,4480,3675.1 4480,3741 4480,3722.6 4480,3703.9 4480,3685.4"];
+"Tuple:
+    a:
+        b1
+    b:
+        t4
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:19)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 4.80000000000000000e+03 6 safety 2.11651090834585331e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+\
+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:20)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.59620519434909874e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT \
+2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_\
+1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive \
+15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+ (e:27)",
+label="capacity: +inf
+ (e:27)",
+lp="4807,4104.5",
+pos="e,4669.6,4049.3 4805.4,4159.8 4763.7,4125.8 4719.4,4089.8 4677.4,4055.6"];
+"Tuple:
+    a:
+        b1
+    b:
+        t4
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:19)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 4.80000000000000000e+03 6 safety 2.11651090834585331e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+\
+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:5)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:28)",
+label="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:28)",
+lp="6636.5,4104.5",
+pos="e,6790.4,4049 6038.5,4160 6280.4,4124.3 6538,4086.3 6780.3,4050.5"];
+"Tuple:
+    a:
+        b1
+    b:
+        t3
+    roles (assigned):
+        SherpaTT:
+            0, 4
+    roles (required):
+        \
+SherpaTT:
+            0, 4
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 9.30866710344427917e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_\
+0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+\
+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t3 0 0 2" [height=3.4444,
+pos="2702,4733",
+width=33.375];
+"Tuple:
+    a:
+        b1
+    b:
+        t3
+    roles (assigned):
+        SherpaTT:
+            0, 4
+    roles (required):
+        \
+SherpaTT:
+            0, 4
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 9.30866710344427917e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_\
+0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+\
+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t4
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:34)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 \
+6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:26)",
+label="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:26)",
+lp="2560.5,4538.5",
+pos="e,2283,4415.5 2538.3,4609 2459.8,4549.5 2366.7,4478.9 2291.1,4421.7"];
+"Tuple:
+    a:
+        b1
+    b:
+        t3
+    roles (assigned):
+        SherpaTT:
+            0, 4
+    roles (required):
+        \
+SherpaTT:
+            0, 4
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 9.30866710344427917e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_\
+0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+\
+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t4
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:19)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 4.80000000000000000e+03 6 safety 2.11651090834585331e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+\
+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:25)",
+label="capacity: +inf
+ (e:25)",
+lp="4024,4538.5",
+pos="e,4152.1,4468 3380.7,4609 3619.4,4565.4 3890.8,4515.8 4142,4469.9"];
+"Tuple:
+    a:
+        b1
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        SherpaTT:
+            0, 4
+ (v:17)
+role_info_attributes 22 serialization::archive 15 0 0 2 \
+0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 serialization::archive 15 0 0 0 \
+0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+\
+00 2 b1 8 LOCATION 0 0 2 t2 0 0 2" [height=3.8611,
+pos="3033,5107",
+width=46.375];
+"Tuple:
+    a:
+        b1
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        SherpaTT:
+            0, 4
+ (v:17)
+role_info_attributes 22 serialization::archive 15 0 0 2 \
+0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 serialization::archive 15 0 0 0 \
+0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+\
+00 2 b1 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.34000000000000000e+03 6 safety \
+3.28273783781885653e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 \
+serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t3 \
+0 0 2" [key="capacity: 24
+    roles (assigned):
+        SherpaTT:
+            2
+ (e:24)",
+label="capacity: 24
+    roles (assigned):
+        SherpaTT:
+            2
+ (e:24)",
+lp="4145.5,4912.5",
+pos="e,4220.6,4849.5 3653.8,4967.9 3797.8,4936.6 3950.6,4904 4093,4875 4131.4,4867.2 4170.9,4859.3 4210.7,4851.5"];
+"Tuple:
+    a:
+        b1
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        SherpaTT:
+            0, 4
+ (v:17)
+role_info_attributes 22 serialization::archive 15 0 0 2 \
+0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 serialization::archive 15 0 0 0 \
+0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+\
+00 2 b1 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t3
+    roles (assigned):
+        SherpaTT:
+            0, 4
+    roles (required):
+        \
+SherpaTT:
+            0, 4
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 9.30866710344427917e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_\
+0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+\
+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+ (e:22)",
+label="capacity: +inf
+ (e:22)",
+lp="2926,4912.5",
+pos="e,2812,4857.3 2909.7,4967.7 2879.9,4934 2848.1,4898.1 2818.6,4864.8"];
+"Tuple:
+    a:
+        lander
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:3)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t3 0 0 2" [height=2.8194,
+pos="6246,4733",
+width=12.653];
+"Tuple:
+    a:
+        b1
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        SherpaTT:
+            0, 4
+ (v:17)
+role_info_attributes 22 serialization::archive 15 0 0 2 \
+0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 serialization::archive 15 0 0 0 \
+0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+\
+00 2 b1 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:3)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:23)",
+label="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:23)",
+lp="4917.5,4912.5",
+pos="e,5902.2,4834.5 4093.7,4968 4450.4,4922.2 4780.1,4881.2 4865,4875 5068.1,4860.2 5579.4,4885.4 5781,4857 5817.4,4851.9 5854.9,4844.8 \
+5892.2,4836.7"];
+"Tuple:
+    a:
+        b1
+    b:
+        t1
+ (v:16)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t1 0 0 2" [height=2.1944,
+pos="1264,5541",
+width=12.208];
+"Tuple:
+    a:
+        b1
+    b:
+        t1
+ (v:16)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        SherpaTT:
+            0, 4
+ (v:17)
+role_info_attributes 22 serialization::archive 15 0 0 2 \
+0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 serialization::archive 15 0 0 0 \
+0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+\
+00 2 b1 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:21)",
+label="capacity: +inf
+ (e:21)",
+lp="1701,5316.5",
+pos="e,1719.6,5246.1 1350.6,5461.8 1426.8,5396.9 1544,5308.8 1663,5264 1676.8,5258.8 1692.5,5253.7 1709.8,5248.8"];
+"Tuple:
+    a:
+        b1
+    b:
+        t0
+ (v:15)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t0 0 0 2" [height=2.1944,
+pos="1256,5960",
+width=12.208];
+"Tuple:
+    a:
+        b1
+    b:
+        t0
+ (v:15)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t1
+ (v:16)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: +inf
+ (e:20)",
+label="capacity: +inf
+ (e:20)",
+lp="1299,5750.5",
+pos="e,1262.5,5620.3 1257.5,5880.7 1258.9,5809.4 1260.9,5704.9 1262.3,5630.6"];
+"Tuple:
+    a:
+        lander
+    b:
+        t13
+ (v:13)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t13 0 0 2" [height=2.1944,
+pos="7011,573",
+width=12.583];
+"Tuple:
+    a:
+        lander
+    b:
+        t13
+ (v:13)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t13 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t14
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:14)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 \
+6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t14 0 0 2" [key="capacity: +inf
+ (e:19)",
+label="capacity: +inf
+ (e:19)",
+lp="6994,363.5",
+pos="e,6917.8,255.62 6987.7,493.7 6968.8,429.23 6941.9,337.52 6920.8,265.63"];
+"Tuple:
+    a:
+        lander
+    b:
+        t12
+ (v:12)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t12 0 0 2" [height=2.1944,
+pos="7010,992",
+width=12.583];
+"Tuple:
+    a:
+        lander
+    b:
+        t12
+ (v:12)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t12 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t13
+ (v:13)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t13 0 0 2" [key="capacity: +inf
+ (e:18)",
+label="capacity: +inf
+ (e:18)",
+lp="7048,782.5",
+pos="e,7010.8,652.33 7010.2,912.7 7010.4,841.43 7010.6,736.87 7010.8,662.61"];
+"Tuple:
+    a:
+        lander
+    b:
+        t11
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t11 0 0 2" [height=2.1944,
+pos="6935,1411",
+width=12.583];
+"Tuple:
+    a:
+        lander
+    b:
+        t11
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t11 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t12
+ (v:12)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t12 0 0 2" [key="capacity: +inf
+ (e:17)",
+label="capacity: +inf
+ (e:17)",
+lp="7014,1201.5",
+pos="e,6995.8,1071.3 6949.2,1331.7 6962,1260.4 6980.7,1155.9 6994,1081.6"];
+"Tuple:
+    a:
+        lander
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:10)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 3 t10 0 0 2" [height=4.2778,
+pos="6389,1830",
+width=33.292];
+"Tuple:
+    a:
+        lander
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:10)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t11
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+4
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+03 6 safety \
+6.49240501170232465e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+\
+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:15)",
+label="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:15)",
+lp="5796.5,1620.5",
+pos="e,5231.7,1527.5 5823.3,1676 5704.1,1644.5 5579.1,1612.1 5462,1583 5390.8,1565.3 5315.7,1547.3 5241.6,1529.9"];
+"Tuple:
+    a:
+        lander
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:10)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t11
+    roles (assigned):
+        SherpaTT:
+            0
+ (v:26)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 \
+6.71879052667169273e+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:16)",
+label="capacity: 14
+    roles (assigned):
+        SherpaTT:
+            0
+ (e:16)",
+lp="6228.5,1620.5",
+pos="e,6023.3,1512.7 6211.2,1675.8 6151.3,1623.8 6085.9,1567 6031,1519.4"];
+"Tuple:
+    a:
+        lander
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:10)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 3 t10 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t11
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 3 t11 0 0 2" [key="capacity: +inf
+ (e:14)",
+label="capacity: +inf
+ (e:14)",
+lp="6732,1620.5",
+pos="e,6832,1490 6590,1675.8 6669,1615.1 6756.7,1547.8 6823.9,1496.2"];
+"Tuple:
+    a:
+        lander
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:9)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t9 0 0 2" [height=4.2778,
+pos="6389,2279",
+width=33.292];
+"Tuple:
+    a:
+        lander
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:9)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t9 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t10
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:10)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 3 t10 0 0 2" [key="capacity: +inf
+ (e:13)",
+label="capacity: +inf
+ (e:13)",
+lp="6427,2054.5",
+pos="e,6389,1984.2 6389,2124.8 6389,2082.7 6389,2037 6389,1994.4"];
+"Tuple:
+    a:
+        lander
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 4
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:8)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::\
+archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        b6
+    b:
+        t9
+    roles (assigned):
+        SherpaTT:
+            4
+ (v:54)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 4.63291230159753042e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 50 //\
+www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.53986092654124228e+06 \
+5.34118202353157662e+06 0.00000000000000000e+00 2 b6 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:12)",
+label="capacity: 34
+    roles (assigned):
+        SherpaTT:
+            4
+ (e:12)",
+lp="5283.5,2488.5",
+pos="e,3851.4,2380.5 5398,2544 5133.8,2508 4848.1,2473.6 4583,2451 4465.8,2441 4169.8,2453.7 4054,2433 3990.4,2421.6 3923.5,2403.5 3861,\
+2383.6"];
+"Tuple:
+    a:
+        lander
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 4
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:8)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::\
+archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t9
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:9)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+ (e:11)",
+label="capacity: +inf
+ (e:11)",
+lp="6427,2488.5",
+pos="e,6389,2433.3 6389,2543.8 6389,2511.1 6389,2476.5 6389,2443.5"];
+"Tuple:
+    a:
+        lander
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:7)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t7 0 0 2" [height=4.2778,
+pos="7834,3147",
+width=33.292];
+"Tuple:
+    a:
+        lander
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:7)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t8
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 4
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:8)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.65157544916947385e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: \
+50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required 2 0 5 http: 51 //www.rock-robotics.org/2014/01/\
+om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::\
+archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+ (e:10)",
+label="capacity: +inf
+ (e:10)",
+lp="7278,2922.5",
+pos="e,6884.8,2852.1 7338.2,2993 7195,2948.4 7038.5,2899.8 6894.7,2855.1"];
+"Tuple:
+    a:
+        lander
+    b:
+        t6
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:6)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t6 0 0 2" [height=4.2778,
+pos="7834,3521",
+width=33.292];
+"Tuple:
+    a:
+        lander
+    b:
+        t6
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:6)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t7
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:7)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+ (e:9)",
+label="capacity: +inf
+ (e:9)",
+lp="7872,3334",
+pos="e,7834,3301.1 7834,3367 7834,3348.6 7834,3329.9 7834,3311.4"];
+"Tuple:
+    a:
+        lander
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:5)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t6
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:6)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+ (e:8)",
+label="capacity: +inf
+ (e:8)",
+lp="7872,3708",
+pos="e,7834,3675.1 7834,3741 7834,3722.6 7834,3703.9 7834,3685.4"];
+"Tuple:
+    a:
+        lander
+    b:
+        t4
+ (v:4)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t4 0 0 2" [height=2.1944,
+pos="7834,4314",
+width=12.486];
+"Tuple:
+    a:
+        lander
+    b:
+        t4
+ (v:4)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t5
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0
+    roles (required):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0
+ (v:5)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 6.83411053863402729e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/\
+2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 8 required \
+2 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 0 10 SherpaTT_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+\
+00 6 lander 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+ (e:7)",
+label="capacity: +inf
+ (e:7)",
+lp="7872,4104.5",
+pos="e,7834,4049.1 7834,4234.7 7834,4185.1 7834,4119.5 7834,4059.1"];
+"Tuple:
+    a:
+        lander
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:3)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t4
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+2, 3, 4
+    roles (required):
+        CoyoteIII:
+            1
+        SherpaTT:
+            2, 3, 4
+ (v:19)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 4.80000000000000000e+03 6 safety 2.11651090834585331e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+4 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+\
+06 0.00000000000000000e+00 2 b1 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:6)",
+label="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            0
+ (e:6)",
+lp="5858.5,4538.5",
+pos="e,5455,4468.1 5942.8,4631.4 5799.3,4583.4 5624.7,4524.9 5464.6,4471.3"];
+"Tuple:
+    a:
+        lander
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:3)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t4
+ (v:4)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:5)",
+label="capacity: +inf
+ (e:5)",
+lp="7322,4538.5",
+pos="e,7612.3,4393 6701.7,4636.2 6908.4,4589.7 7155.2,4530.5 7375,4468 7449.7,4446.8 7530.2,4420.8 7602.6,4396.3"];
+"Tuple:
+    a:
+        lander
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            1
+ (v:2)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t2 0 0 2" [height=2.8194,
+pos="6160,5107",
+width=12.653];
+"Tuple:
+    a:
+        lander
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            1
+ (v:2)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        b4
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            1
+        SherpaTT:
+            \
+2, 3
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.34000000000000000e+03 6 safety \
+3.28273783781885653e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 3 10 SherpaTT_3
+tuple 22 \
+serialization::archive 15 0 0 -2.53294809326860029e+06 6.38546844297656231e+06 0.00000000000000000e+00 2 b4 8 LOCATION 0 0 2 t3 \
+0 0 2" [key="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            1
+ (e:4)",
+label="capacity: 4
+    roles (assigned):
+        CoyoteIII:
+            1
+ (e:4)",
+lp="5635.5,4912.5",
+pos="e,5256.2,4849.5 5803.4,5005.4 5637.5,4958.2 5439,4901.6 5265.9,4852.3"];
+"Tuple:
+    a:
+        lander
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            1
+ (v:2)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t3
+    roles (assigned):
+        CoyoteIII:
+            0
+ (v:3)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+ (e:3)",
+label="capacity: +inf
+ (e:3)",
+lp="6251,4912.5",
+pos="e,6222.6,4834.7 6183.4,5005.3 6194.8,4955.5 6208.6,4895.5 6220.4,4844.4"];
+"Tuple:
+    a:
+        lander
+    b:
+        t1
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            0, 2, 4
+ (v:1)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.10000000000000000e+03 6 safety 1.00000000000000000e+00
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+5 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 \
+serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 \
+t1 0 0 2" [height=4.2778,
+pos="6160,5541",
+width=72.333];
+"Tuple:
+    a:
+        lander
+    b:
+        t1
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            0, 2, 4
+ (v:1)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.10000000000000000e+03 6 safety 1.00000000000000000e+00
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+5 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 \
+serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 \
+t1 0 0 2" -> "Tuple:
+    a:
+        b1
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        SherpaTT:
+            0, 4
+ (v:17)
+role_info_attributes 22 serialization::archive 15 0 0 2 \
+0 0 0 20 reconfiguration cost 2.52000000000000000e+03 6 safety 9.95640121479292484e-01
+roles 22 serialization::archive 15 0 0 0 \
+0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 4 0 0 0 0 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 0 11 CoyoteIII_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+2 0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#\
+SherpaTT 4 10 SherpaTT_4
+tuple 22 serialization::archive 15 0 0 -2.55221525499292836e+06 6.71879052667169273e+06 0.00000000000000000e+\
+00 2 b1 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: 34
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0, 2, 4
+ (e:2)",
+label="capacity: 34
+    roles (assigned):
+        CoyoteIII:
+            0
+        SherpaTT:
+            0, 2, 4
+ (e:2)",
+lp="5342.5,5316.5",
+pos="e,4542.8,5246 5406.7,5386.9 5173.2,5342.8 4914.6,5297.6 4676,5264 4635.4,5258.3 4594.3,5252.7 4552.8,5247.3"];
+"Tuple:
+    a:
+        lander
+    b:
+        t1
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            0, 2, 4
+ (v:1)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.10000000000000000e+03 6 safety 1.00000000000000000e+00
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+5 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 \
+serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 \
+t1 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t2
+    roles (assigned):
+        CoyoteIII:
+            1
+ (v:2)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 6.63420431289062251e-01
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 1 11 CoyoteIII_1
+tuple 22 serialization::archive 15 0 0 -2.54126708068880206e+\
+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:1)",
+label="capacity: +inf
+ (e:1)",
+lp="6198,5316.5",
+pos="e,6160,5208.5 6160,5386.8 6160,5331.3 6160,5269.8 6160,5218.6"];
+"Tuple:
+    a:
+        lander
+    b:
+        t0
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            0, 2, 4
+ (v:0)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+5 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 \
+serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 \
+t0 0 0 2" [height=4.2778,
+pos="6160,5960",
+width=72.333];
+"Tuple:
+    a:
+        lander
+    b:
+        t0
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            0, 2, 4
+ (v:0)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+5 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 \
+serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 \
+t0 0 0 2" -> "Tuple:
+    a:
+        lander
+    b:
+        t1
+    roles (assigned):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            \
+0, 2, 4
+    roles (required):
+        CoyoteIII:
+            0, 1
+        SherpaTT:
+            0, 2, 4
+ (v:1)
+role_info_attributes \
+22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 2.10000000000000000e+03 6 safety 1.00000000000000000e+00
+roles \
+22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 5 0 0 0 0 0 5 http: 51 //\
+www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII \
+1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4 8 required \
+5 0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#CoyoteIII 0 11 CoyoteIII_0 5 http: 51 //www.rock-robotics.org/2014/01/om-schema#\
+CoyoteIII 1 11 CoyoteIII_1 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 0 10 SherpaTT_0 5 http: 50 //www.rock-robotics.org/\
+2014/01/om-schema#SherpaTT 2 10 SherpaTT_2 5 http: 50 //www.rock-robotics.org/2014/01/om-schema#SherpaTT 4 10 SherpaTT_4
+tuple 22 \
+serialization::archive 15 0 0 -2.54126708068880206e+06 6.67182361261711083e+06 0.00000000000000000e+00 6 lander 8 LOCATION 0 0 2 \
+t1 0 0 2" [key="capacity: +inf
+ (e:0)",
+label="capacity: +inf
+ (e:0)",
+lp="6198,5750.5",
+pos="e,6160,5695.3 6160,5805.8 6160,5773.1 6160,5738.5 6160,5705.5"];
+}

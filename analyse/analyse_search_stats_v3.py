@@ -14,7 +14,7 @@ import datetime as dt
 import re
 import matplotlib.colors as colors
 
-import plot as tikz
+import tmaz.plot as tikz
 
 parser = argparse.ArgumentParser(description="Generate experiment pictures")
 parser.add_argument("-i","--interactive",help="use the script non-interactively",
@@ -33,6 +33,7 @@ def getData(logfile,
     filename = os.path.join(dirname, logfile)
 
     logdata = np.loadtxt(filename)
+    print(logdata)
     success_cols = logdata[ logdata[:,idxOf('efficacy')] == 1.0 ]
     nosuccess_cols = logdata[ logdata[:,idxOf('efficacy')] != 1.0 ]
     return logdata, success_cols, nosuccess_cols
@@ -241,9 +242,10 @@ dirname = os.path.join( os.path.dirname(__file__),"output")
 if not os.path.isdir(dirname):
     os.mkdir(dirname)
 
-dataPsi0, successDataPsi0, noSuccessDataPsi0 = getData("data/psi0-search-stats.txt")
-dataPsi1, successDataPsi1, noSuccessDataPsi1 = getData("data/psi1-search-stats.txt")
-dataPsi2, successDataPsi2, noSuccessDataPsi2 = getData("data/psi2-search-stats.txt")
+solution_dir = "/tmp/20200909_163502+0200-templ"
+dataPsi0, successDataPsi0, noSuccessDataPsi0 = getData(f"{solution_dir}/solution_analysis.log")
+dataPsi1, successDataPsi1, noSuccessDataPsi1 = getData(f"{solution_dir}/solution_analysis.log")
+dataPsi2, successDataPsi2, noSuccessDataPsi2 = getData(f"{solution_dir}/solution_analysis.log")
 
 
 maxE = maxEfficiency([dataPsi0, dataPsi1, dataPsi2], fulfillment = 0.0)

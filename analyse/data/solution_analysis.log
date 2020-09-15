@@ -1,0 +1,4 @@
+#  [session-id]  [alpha] [beta] [sigma]  [efficacy] [efficiency in kWh] [safety]  [timehorizon in s] [travel-distance in m] [reconfiguration-cost in s] [number of agents] [number of mobile agents]
+0 1 1 1 1 1000 0.771846 0 0 0 2 1 
+1 1 1 1 1 2000 0.771846 0 0 0 2 1 
+2 1 1 1 1 3000 0.771846 0 0 0 2 1 

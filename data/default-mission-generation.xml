@@ -1,0 +1,30 @@
+<templ-configuration>
+    <MissionGenerator>
+        <area>
+            <x>100</x>
+            <y>100</y>
+            <z>0</z>
+        </area>
+        <locations>5</locations>
+        <timepoints>10</timepoints>
+        <organization_model>http://www.rock-robotics.org/2017/11/vrp</organization_model>
+        <agentPool>
+            <Vehicle>
+                <min>3</min>
+                <max>3</max>
+                <overrides>
+                    <nominalVelocity>2</nominalVelocity>
+                    <transportCapacity>5</transportCapacity>
+                </overrides>
+            </Vehicle>>
+            <Commodity>
+                <min>3</min>
+                <max>3</max>
+            </Commodity>
+        </agentPool>
+        <samplingDensity>0.8</samplingDensity>
+        <temporalConstraints>
+            <nogaps>true</nogaps>
+        </temporalConstraints>
+    </MissionGenerator>
+</templ-configuration>

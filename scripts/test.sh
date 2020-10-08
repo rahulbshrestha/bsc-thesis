@@ -22,3 +22,5 @@ cat solution_analysis.log
 
 # Apply heuristic to it; move solution_analysis to new directory
 
+cd ~/templ-dev/planning/templ/build
+./src/templ-heuristics --mission /tmp/$SOLUTIONDIR/specs/mission.xml --solution /tmp/$SOLUTIONDIR/0/final_solution_network.gexf --om http://www.rock-robotics.org/2017/11/vrp#

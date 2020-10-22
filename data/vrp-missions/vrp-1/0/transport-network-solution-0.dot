@@ -1,0 +1,3984 @@
+digraph GraphvizGraph {
+	graph [bb="0,0,9754,4019",
+		concentrate=false,
+		dpi="96,0",
+		overlap=false,
+		pad="0,2",
+		root="Tuple:
+    a:
+        l0
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:49)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t9 0 0 2",
+		splines=true
+	];
+	node [fixedsize=false,
+		label="\N",
+		pin=false,
+		pos="0,0",
+		shape=box,
+		width=0
+	];
+	edge [label=o];
+	"Tuple:
+    a:
+        l0
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:49)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t9 0 0 2"	 [height=3.4444,
+		pos="2487.5,124",
+		width=32.167];
+	"Tuple:
+    a:
+        l0
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:48)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t8 0 0 2"	 [height=3.4444,
+		pos="2487.5,483",
+		width=32.167];
+	"Tuple:
+    a:
+        l0
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:48)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:49)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:55)",
+	label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:55)",
+	lp="2540,303.5",
+	pos="e,2487.5,248.06 2487.5,358.95 2487.5,326.44 2487.5,291.24 2487.5,258.23"];
+"Tuple:
+    a:
+        l0
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:47)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t7 0 0 2" [height=3.4444,
+	pos="2487.5,872",
+	width=32.167];
+"Tuple:
+    a:
+        l0
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:47)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:48)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:54)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:54)",
+lp="2540,662.5",
+pos="e,2487.5,607.31 2487.5,747.85 2487.5,706.27 2487.5,659.73 2487.5,617.4"];
+"Tuple:
+    a:
+        l0
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.12712484620238729e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/\
+11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive \
+15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t6 0 0 2" [height=3.2361,
+pos="2322.5,1291",
+width=24.069];
+"Tuple:
+    a:
+        l0
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.12712484620238729e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/\
+11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive \
+15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:47)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:52)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:52)",
+lp="2468,1081.5",
+pos="e,2438.6,996.14 2368.5,1174.3 2389.1,1121.9 2413.6,1059.7 2434.9,1005.5"];
+"Tuple:
+    a:
+        l3
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t7 0 0 2" [height=3.4444,
+pos="655.5,872",
+width=18.208];
+"Tuple:
+    a:
+        l0
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.12712484620238729e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/\
+11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive \
+15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            1
+ (e:53)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            1
+ (e:53)",
+lp="1642,1081.5",
+pos="e,1149.1,996.07 1859,1174.5 1641.3,1119.8 1381.5,1054.5 1159,998.56"];
+"Tuple:
+    a:
+        l0
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:45)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t5 0 0 2" [height=3.4444,
+pos="2281.5,1710",
+width=32.167];
+"Tuple:
+    a:
+        l0
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:45)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.12712484620238729e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/\
+11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive \
+15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:51)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:51)",
+lp="2357,1500.5",
+pos="e,2311.1,1407.5 2293.6,1586 2298.8,1532.9 2304.9,1471.1 2310.1,1417.7"];
+"Tuple:
+    a:
+        l0
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:44)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t4 0 0 2" [height=3.4444,
+pos="2379.5,2129",
+width=32.167];
+"Tuple:
+    a:
+        l0
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:44)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:45)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:50)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:50)",
+lp="2389,1919.5",
+pos="e,2310.5,1834.1 2350.5,2005 2338.6,1954.3 2324.9,1895.6 2312.8,1844"];
+"Tuple:
+    a:
+        l0
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:43)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 8.75023960368921494e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t3 0 0 2" [height=4.2778,
+pos="3669.5,2578",
+width=43.083];
+"Tuple:
+    a:
+        l0
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:43)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 8.75023960368921494e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            1, 2
+    roles (required):
+        \
+Commodity:
+            1, 2
+ (v:44)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 8.14506249999999987e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 \
+5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+\
+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:48)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:48)",
+lp="3193,2353.5",
+pos="e,2736,2253.1 3226.9,2424 3070.1,2369.4 2895.5,2308.6 2745.8,2256.5"];
+"Tuple:
+    a:
+        l4
+    b:
+        t4
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:34)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+\
+03 6 safety 9.87562343945214582e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t4 0 0 2" [height=3.4444,
+pos="6927.5,2129",
+width=29.125];
+"Tuple:
+    a:
+        l0
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:43)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 8.75023960368921494e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t4
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:34)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+\
+03 6 safety 9.87562343945214582e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            2
+ (e:49)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            2
+ (e:49)",
+lp="5444,2353.5",
+pos="e,6140.7,2253 4496.7,2424 4779.6,2376.9 5098.5,2330 5391.5,2301 5603.1,2280.1 5657.8,2302.3 5869.5,2283 5954.3,2275.3 6042.6,2265.3 \
+6130.5,2254.3"];
+"Tuple:
+    a:
+        l0
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:42)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.97375312499999889e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t2 0 0 2" [height=4.2778,
+pos="3669.5,2997",
+width=43.083];
+"Tuple:
+    a:
+        l0
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:42)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.97375312499999889e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:43)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 8.75023960368921494e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t3 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:47)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1, 2
+ (e:47)",
+lp="3722,2787.5",
+pos="e,3669.5,2732.3 3669.5,2842.8 3669.5,2810.1 3669.5,2775.5 3669.5,2742.5"];
+"Tuple:
+    a:
+        l0
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            1
+    roles (required):
+        \
+Commodity:
+            1
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 \
+8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t1 0 0 2" [height=3.4444,
+pos="3669.5,3446",
+width=19.736];
+"Tuple:
+    a:
+        l0
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            1
+    roles (required):
+        \
+Commodity:
+            1
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 \
+8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:42)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.97375312499999889e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t2 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1
+ (e:46)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1
+ (e:46)",
+lp="3722,3221.5",
+pos="e,3669.5,3151.1 3669.5,3321.8 3669.5,3272.2 3669.5,3214.3 3669.5,3161.3"];
+"Tuple:
+    a:
+        l0
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            1
+    roles (required):
+        \
+Commodity:
+            1
+ (v:40)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 \
+8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t0 0 0 2" [height=3.4444,
+pos="3669.5,3865",
+width=19.736];
+"Tuple:
+    a:
+        l0
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            1
+    roles (required):
+        \
+Commodity:
+            1
+ (v:40)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 \
+8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            1
+    roles (required):
+        \
+Commodity:
+            1
+ (v:41)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 \
+8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1
+ (e:45)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            1
+ (e:45)",
+lp="3722,3655.5",
+pos="e,3669.5,3570.1 3669.5,3741 3669.5,3690.4 3669.5,3631.8 3669.5,3580.3"];
+"Tuple:
+    a:
+        l4
+    b:
+        t9
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:39)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 5.98736939238378785e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t9 0 0 2" [height=3.4444,
+pos="6731.5,124",
+width=29.125];
+"Tuple:
+    a:
+        l4
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:38)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 5.98736939238378785e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t8 0 0 2" [height=3.4444,
+pos="6731.5,483",
+width=29.125];
+"Tuple:
+    a:
+        l4
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:38)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 5.98736939238378785e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t9
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:39)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 5.98736939238378785e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+ (e:44)",
+label="capacity: +inf
+ (e:44)",
+lp="6769.5,303.5",
+pos="e,6731.5,248.06 6731.5,358.95 6731.5,326.44 6731.5,291.24 6731.5,258.23"];
+"Tuple:
+    a:
+        l4
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            0
+ (v:37)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.73780937499999877e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t7 0 0 2" [height=2.8194,
+pos="6731.5,872",
+width=12.111];
+"Tuple:
+    a:
+        l4
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            0
+ (v:37)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.73780937499999877e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:38)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 5.98736939238378785e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+ (e:43)",
+label="capacity: +inf
+ (e:43)",
+lp="6769.5,662.5",
+pos="e,6731.5,607 6731.5,770.3 6731.5,723.55 6731.5,667.45 6731.5,617.28"];
+"Tuple:
+    a:
+        l4
+    b:
+        t6
+ (v:36)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t6 0 0 2" [height=2.1944,
+pos="7124.5,1291",
+width=12.111];
+"Tuple:
+    a:
+        l4
+    b:
+        t6
+ (v:36)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            0
+ (v:37)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.73780937499999877e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+ (e:42)",
+label="capacity: +inf
+ (e:42)",
+lp="6990.5,1081.5",
+pos="e,6826.8,973.62 7050.1,1211.7 6988.9,1146.4 6901.5,1053.3 6833.7,980.99"];
+"Tuple:
+    a:
+        l4
+    b:
+        t5
+    roles (assigned):
+        Vehicle:
+            2
+    roles (required):
+        Vehicle:
+            \
+2
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t5 0 0 2" [height=3.4444,
+pos="7124.5,1710",
+width=18.208];
+"Tuple:
+    a:
+        l4
+    b:
+        t5
+    roles (assigned):
+        Vehicle:
+            2
+    roles (required):
+        Vehicle:
+            \
+2
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t6
+ (v:36)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+ (e:40)",
+label="capacity: +inf
+ (e:40)",
+lp="7162.5,1500.5",
+pos="e,7124.5,1370.1 7124.5,1586 7124.5,1519.9 7124.5,1440.2 7124.5,1380.3"];
+"Tuple:
+    a:
+        l2
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+2
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 2
+ (v:16)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t6 0 0 2" [height=4.2778,
+pos="5173.5,1291",
+width=41.569];
+"Tuple:
+    a:
+        l4
+    b:
+        t5
+    roles (assigned):
+        Vehicle:
+            2
+    roles (required):
+        Vehicle:
+            \
+2
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+2
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 2
+ (v:16)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t6 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            2
+ (e:41)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            2
+ (e:41)",
+lp="6408,1500.5",
+pos="e,5936.6,1445.1 6593.9,1585.9 6548.5,1575.7 6503.2,1565.6 6459.5,1556 6293.8,1519.7 6115.7,1482.2 5946.5,1447.1"];
+"Tuple:
+    a:
+        l4
+    b:
+        t4
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:34)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+\
+03 6 safety 9.87562343945214582e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t5
+    roles (assigned):
+        Vehicle:
+            2
+    roles (required):
+        Vehicle:
+            \
+2
+ (v:35)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+ (e:38)",
+label="capacity: +inf
+ (e:38)",
+lp="7076.5,1919.5",
+pos="e,7066.2,1834.1 6985.8,2005 7009.7,1954.1 7037.5,1895.1 7061.8,1843.3"];
+"Tuple:
+    a:
+        l2
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 1
+ (v:15)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t5 0 0 2" [height=4.2778,
+pos="4954.5,1710",
+width=41.569];
+"Tuple:
+    a:
+        l4
+    b:
+        t4
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:34)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+\
+03 6 safety 9.87562343945214582e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 1
+ (v:15)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t5 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            0
+ (e:39)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            0
+ (e:39)",
+lp="6112,1919.5",
+pos="e,5680,1864.1 6343.5,2005 6138.6,1961.5 5905.7,1912 5689.9,1866.2"];
+"Tuple:
+    a:
+        l4
+    b:
+        t3
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t3 0 0 2" [height=3.4444,
+pos="8565.5,2578",
+width=18.208];
+"Tuple:
+    a:
+        l4
+    b:
+        t3
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t4
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:34)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.12000000000000000e+\
+03 6 safety 9.87562343945214582e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:37)",
+label="capacity: +inf
+ (e:37)",
+lp="7931.5,2353.5",
+pos="e,7380.1,2253.1 8113,2454 7887.9,2392.3 7616.3,2317.8 7389.9,2255.7"];
+"Tuple:
+    a:
+        l4
+    b:
+        t2
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:32)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t2 0 0 2" [height=3.4444,
+pos="8565.5,2997",
+width=18.208];
+"Tuple:
+    a:
+        l4
+    b:
+        t2
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:32)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t3
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:33)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+ (e:36)",
+label="capacity: +inf
+ (e:36)",
+lp="8603.5,2787.5",
+pos="e,8565.5,2702.1 8565.5,2873 8565.5,2822.4 8565.5,2763.8 8565.5,2712.3"];
+"Tuple:
+    a:
+        l4
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:31)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION \
+0 0 2 t1 0 0 2" [height=4.2778,
+pos="8650.5,3446",
+width=30.653];
+"Tuple:
+    a:
+        l4
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:31)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION \
+0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t2
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:32)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:34)",
+label="capacity: +inf
+ (e:34)",
+lp="8654.5,3221.5",
+pos="e,8589,3121.2 8621.3,3291.8 8611.4,3239.6 8600.5,3181.7 8590.9,3131.2"];
+"Tuple:
+    a:
+        l1
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:2)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t2 0 0 2" [height=4.2778,
+pos="6565.5,2997",
+width=36.861];
+"Tuple:
+    a:
+        l4
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:31)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION \
+0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:2)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (e:35)",
+label="capacity: 5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (e:35)",
+lp="7848,3221.5",
+pos="e,7280.9,3151.1 7935.1,3292 7727,3247.1 7499.6,3198.1 7290.8,3153.2"];
+"Tuple:
+    a:
+        l4
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:30)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION \
+0 0 2 t0 0 0 2" [height=4.2778,
+pos="8650.5,3865",
+width=30.653];
+"Tuple:
+    a:
+        l4
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:30)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION \
+0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:31)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+00 2 l4 8 LOCATION \
+0 0 2 t1 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:33)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:33)",
+lp="8703,3655.5",
+pos="e,8650.5,3600.3 8650.5,3710.8 8650.5,3678.1 8650.5,3643.5 8650.5,3610.5"];
+"Tuple:
+    a:
+        l3
+    b:
+        t9
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:29)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t9 0 0 2" [height=3.4444,
+pos="655.5,124",
+width=18.208];
+"Tuple:
+    a:
+        l3
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:28)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t8 0 0 2" [height=3.4444,
+pos="655.5,483",
+width=18.208];
+"Tuple:
+    a:
+        l3
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:28)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t9
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:29)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+ (e:32)",
+label="capacity: +inf
+ (e:32)",
+lp="693.5,303.5",
+pos="e,655.5,248.06 655.5,358.95 655.5,326.44 655.5,291.24 655.5,258.23"];
+"Tuple:
+    a:
+        l3
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:28)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+ (e:31)",
+label="capacity: +inf
+ (e:31)",
+lp="693.5,662.5",
+pos="e,655.5,607.31 655.5,747.85 655.5,706.27 655.5,659.73 655.5,617.4"];
+"Tuple:
+    a:
+        l3
+    b:
+        t6
+ (v:26)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t6 0 0 2" [height=2.1944,
+pos="655.5,1291",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t6
+ (v:26)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            1
+    roles (required):
+        Vehicle:
+            \
+1
+ (v:27)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+\
+00 2 l3 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+ (e:30)",
+label="capacity: +inf
+ (e:30)",
+lp="693.5,1081.5",
+pos="e,655.5,996.3 655.5,1211.7 655.5,1153.9 655.5,1074.3 655.5,1006.6"];
+"Tuple:
+    a:
+        l3
+    b:
+        t5
+ (v:25)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t5 0 0 2" [height=2.1944,
+pos="655.5,1710",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t5
+ (v:25)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t6
+ (v:26)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+ (e:29)",
+label="capacity: +inf
+ (e:29)",
+lp="693.5,1500.5",
+pos="e,655.5,1370.3 655.5,1630.7 655.5,1559.4 655.5,1454.9 655.5,1380.6"];
+"Tuple:
+    a:
+        l3
+    b:
+        t4
+ (v:24)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t4 0 0 2" [height=2.1944,
+pos="655.5,2129",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t4
+ (v:24)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t5
+ (v:25)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+ (e:28)",
+label="capacity: +inf
+ (e:28)",
+lp="693.5,1919.5",
+pos="e,655.5,1789.3 655.5,2049.7 655.5,1978.4 655.5,1873.9 655.5,1799.6"];
+"Tuple:
+    a:
+        l3
+    b:
+        t3
+ (v:23)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t3 0 0 2" [height=2.1944,
+pos="655.5,2578",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t3
+ (v:23)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t4
+ (v:24)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:27)",
+label="capacity: +inf
+ (e:27)",
+lp="693.5,2353.5",
+pos="e,655.5,2208.2 655.5,2498.8 655.5,2420.2 655.5,2300.1 655.5,2218.2"];
+"Tuple:
+    a:
+        l3
+    b:
+        t2
+ (v:22)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t2 0 0 2" [height=2.1944,
+pos="655.5,2997",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t2
+ (v:22)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t3
+ (v:23)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+ (e:26)",
+label="capacity: +inf
+ (e:26)",
+lp="693.5,2787.5",
+pos="e,655.5,2657.3 655.5,2917.7 655.5,2846.4 655.5,2741.9 655.5,2667.6"];
+"Tuple:
+    a:
+        l3
+    b:
+        t1
+ (v:21)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t1 0 0 2" [height=2.1944,
+pos="655.5,3446",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t1
+ (v:21)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t2
+ (v:22)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:25)",
+label="capacity: +inf
+ (e:25)",
+lp="693.5,3221.5",
+pos="e,655.5,3076.2 655.5,3366.8 655.5,3288.2 655.5,3168.1 655.5,3086.2"];
+"Tuple:
+    a:
+        l3
+    b:
+        t0
+ (v:20)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t0 0 0 2" [height=2.1944,
+pos="655.5,3865",
+width=12.111];
+"Tuple:
+    a:
+        l3
+    b:
+        t0
+ (v:20)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 4.30000000000000000e+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        l3
+    b:
+        t1
+ (v:21)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 4.30000000000000000e+\
+01 2.20000000000000000e+01 0.00000000000000000e+00 2 l3 8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: +inf
+ (e:24)",
+label="capacity: +inf
+ (e:24)",
+lp="693.5,3655.5",
+pos="e,655.5,3525.3 655.5,3785.7 655.5,3714.4 655.5,3609.9 655.5,3535.6"];
+"Tuple:
+    a:
+        l2
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            0
+    roles (required):
+        \
+Commodity:
+            0
+ (v:19)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 \
+7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t9 0 0 2" [height=3.4444,
+pos="4954.5,124",
+width=19.736];
+"Tuple:
+    a:
+        l2
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            0
+    roles (required):
+        \
+Commodity:
+            0
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 \
+7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t8 0 0 2" [height=3.4444,
+pos="4954.5,483",
+width=19.736];
+"Tuple:
+    a:
+        l2
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            0
+    roles (required):
+        \
+Commodity:
+            0
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 \
+7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            0
+    roles (required):
+        \
+Commodity:
+            0
+ (v:19)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 \
+7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:23)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:23)",
+lp="5007,303.5",
+pos="e,4954.5,248.06 4954.5,358.95 4954.5,326.44 4954.5,291.24 4954.5,258.23"];
+"Tuple:
+    a:
+        l2
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            2
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            2
+ (v:17)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t7 0 0 2" [height=4.2778,
+pos="5173.5,872",
+width=30.653];
+"Tuple:
+    a:
+        l2
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            2
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            2
+ (v:17)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t8
+    roles (assigned):
+        Vehicle:
+            0, 2
+    roles (required):
+        \
+Vehicle:
+            0, 2
+ (v:38)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+\
+03 6 safety 5.98736939238378785e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            2
+ (e:22)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            2
+ (e:22)",
+lp="6191,662.5",
+pos="e,6234.7,607.03 5790.4,717.98 5934.4,682.02 6086.2,644.12 6224.8,609.52"];
+"Tuple:
+    a:
+        l2
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            2
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            2
+ (v:17)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            0
+    roles (required):
+        \
+Commodity:
+            0
+ (v:18)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+\
+00 6 safety 9.02499999999999969e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 \
+0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 8 required 1 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 \
+7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:21)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:21)",
+lp="5124,662.5",
+pos="e,5024.3,607.03 5086.8,717.98 5067.8,684.17 5047.8,648.66 5029.3,615.78"];
+"Tuple:
+    a:
+        l2
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+2
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 2
+ (v:16)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t7
+    roles (assigned):
+        Vehicle:
+            0
+ (v:37)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.73780937499999877e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 43 //\
+www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+\
+01 0.00000000000000000e+00 2 l4 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            0
+ (e:20)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            0
+ (e:20)",
+lp="6249,1081.5",
+pos="e,6450.9,973.59 5866.6,1137 6006,1102.9 6150.9,1065.2 6285.5,1026 6336.2,1011.2 6389.7,994.14 6441.3,976.82"];
+"Tuple:
+    a:
+        l2
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+2
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 2
+ (v:16)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            2
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            2
+ (v:17)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t7 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:19)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:19)",
+lp="5226,1081.5",
+pos="e,5173.5,1026.3 5173.5,1136.8 5173.5,1104.1 5173.5,1069.5 5173.5,1036.5"];
+"Tuple:
+    a:
+        l2
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 1
+ (v:15)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+1
+ (v:46)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.12712484620238729e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned \
+0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/\
+11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive \
+15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            1
+ (e:18)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            1
+ (e:18)",
+lp="3849,1500.5",
+pos="e,3054.5,1407.5 3987.1,1556 3682.5,1507.5 3351,1454.7 3064.7,1409.2"];
+"Tuple:
+    a:
+        l2
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 1
+ (v:15)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+2
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 2
+ (v:16)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t6 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:17)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:17)",
+lp="5130,1500.5",
+pos="e,5092.9,1445.3 5035.1,1555.8 5052.4,1522.7 5070.7,1487.6 5088.2,1454.2"];
+"Tuple:
+    a:
+        l2
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:14)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t4 0 0 2" [height=4.2778,
+pos="4757.5,2129",
+width=30.653];
+"Tuple:
+    a:
+        l2
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:14)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            0, \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            0, 1
+ (v:15)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 3.48000000000000000e+03 6 safety 9.40417998716401415e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t5 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:16)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0
+ (e:16)",
+lp="4921,1919.5",
+pos="e,4882,1864.3 4830,1974.8 4845.5,1941.8 4861.9,1906.9 4877.6,1873.6"];
+"Tuple:
+    a:
+        l2
+    b:
+        t3
+ (v:13)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+\
+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t3 0 0 2" [height=2.1944,
+pos="1664.5,2578",
+width=12.111];
+"Tuple:
+    a:
+        l2
+    b:
+        t3
+ (v:13)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+\
+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:14)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t4 0 0 2" [key="capacity: +inf
+ (e:15)",
+label="capacity: +inf
+ (e:15)",
+lp="2867.5,2353.5",
+pos="e,3653.7,2274.1 1870.1,2499 1944.7,2472.4 2030.1,2444.4 2109.5,2424 2423.9,2343.3 2506.4,2332.5 2829.5,2301 3146.8,2270.1 3228.6,\
+2307.1 3546.5,2283 3578.5,2280.6 3610.9,2277.9 3643.6,2275"];
+"Tuple:
+    a:
+        l2
+    b:
+        t2
+ (v:12)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t2 0 0 2" [height=2.1944,
+pos="1664.5,2997",
+width=12.111];
+"Tuple:
+    a:
+        l2
+    b:
+        t2
+ (v:12)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t3
+ (v:13)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 0 0
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+\
+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+ (e:14)",
+label="capacity: +inf
+ (e:14)",
+lp="1702.5,2787.5",
+pos="e,1664.5,2657.3 1664.5,2917.7 1664.5,2846.4 1664.5,2741.9 1664.5,2667.6"];
+"Tuple:
+    a:
+        l2
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+    \
+roles (required):
+        Vehicle:
+            2
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration \
+cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::\
+archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle \
+2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 \
+8 LOCATION 0 0 2 t1 0 0 2" [height=3.8611,
+pos="2037.5,3446",
+width=24.431];
+"Tuple:
+    a:
+        l2
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+    \
+roles (required):
+        Vehicle:
+            2
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration \
+cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::\
+archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle \
+2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 \
+8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l0
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            1, 2
+        Vehicle:
+            \
+2
+    roles (required):
+        Commodity:
+            1, 2
+        Vehicle:
+            2
+ (v:42)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.97375312499999889e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 1 11 Commodity_1 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 3 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 1 11 Commodity_1 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_\
+2
+tuple 22 serialization::archive 15 0 0 8.20000000000000000e+01 8.90000000000000000e+01 0.00000000000000000e+00 2 l0 8 LOCATION \
+0 0 2 t2 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+ (e:13)",
+label="capacity: 5
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+ (e:13)",
+lp="3053,3221.5",
+pos="e,3109.7,3151 2543,3306.9 2719.4,3258.4 2918.7,3203.6 3100,3153.7"];
+"Tuple:
+    a:
+        l2
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+    \
+roles (required):
+        Vehicle:
+            2
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration \
+cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::\
+archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle \
+2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 \
+8 LOCATION 0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t2
+ (v:12)
+role_info_attributes 22 serialization::archive 15 0 0 0 0
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 0 0
+tuple 22 serialization::archive 15 0 \
+0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+ (e:12)",
+label="capacity: +inf
+ (e:12)",
+lp="1922.5,3221.5",
+pos="e,1730.2,3076.1 1921.8,3306.7 1861.4,3234 1789.3,3147.3 1736.9,3084.1"];
+"Tuple:
+    a:
+        l2
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+    \
+roles (required):
+        Vehicle:
+            2
+ (v:10)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration \
+cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::\
+archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle \
+2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 \
+8 LOCATION 0 0 2 t0 0 0 2" [height=3.8611,
+pos="2037.5,3865",
+width=24.431];
+"Tuple:
+    a:
+        l2
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+    \
+roles (required):
+        Vehicle:
+            2
+ (v:10)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration \
+cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::\
+archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle \
+2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 \
+8 LOCATION 0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            2
+    \
+roles (required):
+        Vehicle:
+            2
+ (v:11)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration \
+cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::\
+archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 2 9 Vehicle_2 8 required 1 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle \
+2 9 Vehicle_2
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 \
+8 LOCATION 0 0 2 t1 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:11)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:11)",
+lp="2090,3655.5",
+pos="e,2037.5,3585.1 2037.5,3725.8 2037.5,3683.9 2037.5,3637.8 2037.5,3595.2"];
+"Tuple:
+    a:
+        l1
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            2
+ (v:9)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t9 0 0 2" [height=2.8194,
+pos="8440.5,124",
+width=12.403];
+"Tuple:
+    a:
+        l1
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            2
+ (v:8)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t8 0 0 2" [height=2.8194,
+pos="8440.5,483",
+width=12.403];
+"Tuple:
+    a:
+        l1
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            2
+ (v:8)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t8 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t9
+    roles (assigned):
+        Commodity:
+            2
+ (v:9)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t9 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:10)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:10)",
+lp="8493,303.5",
+pos="e,8440.5,225.55 8440.5,381.09 8440.5,335.7 8440.5,282.12 8440.5,235.66"];
+"Tuple:
+    a:
+        l1
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            2
+ (v:7)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t7 0 0 2" [height=2.8194,
+pos="8440.5,872",
+width=12.403];
+"Tuple:
+    a:
+        l1
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            2
+ (v:7)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t7 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t8
+    roles (assigned):
+        Commodity:
+            2
+ (v:8)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t8 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:9)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:9)",
+lp="8493,662.5",
+pos="e,8440.5,584.78 8440.5,770.3 8440.5,716.47 8440.5,650.26 8440.5,594.97"];
+"Tuple:
+    a:
+        l1
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            2
+ (v:6)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t6 0 0 2" [height=2.8194,
+pos="8440.5,1291",
+width=12.403];
+"Tuple:
+    a:
+        l1
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            2
+ (v:6)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t6 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t7
+    roles (assigned):
+        Commodity:
+            2
+ (v:7)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t7 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:8)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:8)",
+lp="8493,1081.5",
+pos="e,8440.5,973.82 8440.5,1189.3 8440.5,1127.2 8440.5,1047.8 8440.5,983.93"];
+"Tuple:
+    a:
+        l1
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            2
+ (v:5)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t5 0 0 2" [height=2.8194,
+pos="8440.5,1710",
+width=12.403];
+"Tuple:
+    a:
+        l1
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            2
+ (v:5)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t5 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t6
+    roles (assigned):
+        Commodity:
+            2
+ (v:6)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t6 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:7)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:7)",
+lp="8493,1500.5",
+pos="e,8440.5,1392.8 8440.5,1608.3 8440.5,1546.2 8440.5,1466.8 8440.5,1402.9"];
+"Tuple:
+    a:
+        l1
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            2
+ (v:4)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t4 0 0 2" [height=2.8194,
+pos="8440.5,2129",
+width=12.403];
+"Tuple:
+    a:
+        l1
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            2
+ (v:4)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t4 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t5
+    roles (assigned):
+        Commodity:
+            2
+ (v:5)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t5 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:6)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:6)",
+lp="8493,1919.5",
+pos="e,8440.5,1811.8 8440.5,2027.3 8440.5,1965.2 8440.5,1885.8 8440.5,1821.9"];
+"Tuple:
+    a:
+        l1
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:3)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t3 0 0 2" [height=4.2778,
+pos="6565.5,2578",
+width=36.861];
+"Tuple:
+    a:
+        l1
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:3)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l2
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+    \
+roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:14)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 7.71846485156249873e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_\
+1
+tuple 22 serialization::archive 15 0 0 2.30000000000000000e+01 7.90000000000000000e+01 0.00000000000000000e+00 2 l2 8 LOCATION \
+0 0 2 t4 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (e:5)",
+label="capacity: 5
+    roles (assigned):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (e:5)",
+lp="5876,2353.5",
+pos="e,5377.9,2283.1 5945.2,2424 5765.2,2379.2 5568.5,2330.4 5387.8,2285.5"];
+"Tuple:
+    a:
+        l1
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:3)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t3 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t4
+    roles (assigned):
+        Commodity:
+            2
+ (v:4)
+role_info_attributes 22 \
+serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 9.02499999999999969e-01
+roles 22 \
+serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 1 0 0 0 8 assigned 0 0 1 0 0 0 0 0 5 http: 45 //\
+www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t4 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:4)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:4)",
+lp="7544,2353.5",
+pos="e,8182.6,2230.5 6997.6,2423.9 7151.5,2375.7 7327.4,2328.1 7491.5,2301 7707.8,2265.3 7768.8,2322.5 7984.5,2283 8046.6,2271.6 8111.8,\
+2253.5 8172.8,2233.7"];
+"Tuple:
+    a:
+        l1
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:2)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t2 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t3
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:3)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t3 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0, 2
+ (e:3)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            0, 2
+ (e:3)",
+lp="6618,2787.5",
+pos="e,6565.5,2732.3 6565.5,2842.8 6565.5,2810.1 6565.5,2775.5 6565.5,2742.5"];
+"Tuple:
+    a:
+        l1
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            0
+    \
+roles (required):
+        Commodity:
+            2
+        Vehicle:
+            0
+ (v:1)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_\
+0
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+01 0.00000000000000000e+00 2 l1 8 LOCATION \
+0 0 2 t1 0 0 2" [height=4.2778,
+pos="6425.5,3446",
+width=30.653];
+"Tuple:
+    a:
+        l1
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            0
+    \
+roles (required):
+        Commodity:
+            2
+        Vehicle:
+            0
+ (v:1)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_\
+0
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+01 0.00000000000000000e+00 2 l1 8 LOCATION \
+0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l4
+    b:
+        t2
+    roles (assigned):
+        Vehicle:
+            0
+    roles (required):
+        Vehicle:
+            \
+0
+ (v:32)
+role_info_attributes 22 serialization::archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety \
+7.73780937499999877e-01
+roles 22 serialization::archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned \
+0 0 1 0 0 0 0 0 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 1 0 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 0 9 Vehicle_0
+tuple 22 serialization::archive 15 0 0 6.20000000000000000e+01 5.80000000000000000e+01 0.00000000000000000e+\
+00 2 l4 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: 5
+    roles (assigned):
+        Vehicle:
+            0
+ (e:2)",
+label="capacity: 5
+    roles (assigned):
+        Vehicle:
+            0
+ (e:2)",
+lp="7365,3221.5",
+pos="e,8080.7,3121 6836.9,3291.9 6984.7,3243.5 7154.1,3195.6 7312.5,3169 7570.8,3125.6 7641.8,3184.7 7901.5,3151 7956.7,3143.8 8014,3134.1 \
+8070.8,3123"];
+"Tuple:
+    a:
+        l1
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            0
+    \
+roles (required):
+        Commodity:
+            2
+        Vehicle:
+            0
+ (v:1)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_\
+0
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+01 0.00000000000000000e+00 2 l1 8 LOCATION \
+0 0 2 t1 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t2
+    roles (assigned):
+        Commodity:
+            0, 2
+        Vehicle:
+            \
+1
+    roles (required):
+        Commodity:
+            0
+        Vehicle:
+            1
+ (v:2)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.74000000000000000e+03 6 safety 8.12368425626952884e-01
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 3 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 0 11 Commodity_0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/\
+2017/11/vrp#Vehicle 1 9 Vehicle_1 8 required 2 0 5 http: 45 //www.rock-robotics.org/2017/11/vrp#Commodity 0 11 Commodity_0 5 http: \
+43 //www.rock-robotics.org/2017/11/vrp#Vehicle 1 9 Vehicle_1
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+\
+01 0.00000000000000000e+00 2 l1 8 LOCATION 0 0 2 t2 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:1)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:1)",
+lp="6561,3221.5",
+pos="e,6517.4,3151.2 6473.6,3291.8 6486.7,3249.6 6501.1,3203.6 6514.4,3160.9"];
+"Tuple:
+    a:
+        l1
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            0
+    \
+roles (required):
+        Commodity:
+            2
+        Vehicle:
+            0
+ (v:0)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_\
+0
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+01 0.00000000000000000e+00 2 l1 8 LOCATION \
+0 0 2 t0 0 0 2" [height=4.2778,
+pos="6425.5,3865",
+width=30.653];
+"Tuple:
+    a:
+        l1
+    b:
+        t0
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            0
+    \
+roles (required):
+        Commodity:
+            2
+        Vehicle:
+            0
+ (v:0)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 0.00000000000000000e+00 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_\
+0
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+01 0.00000000000000000e+00 2 l1 8 LOCATION \
+0 0 2 t0 0 0 2" -> "Tuple:
+    a:
+        l1
+    b:
+        t1
+    roles (assigned):
+        Commodity:
+            2
+        Vehicle:
+            0
+    \
+roles (required):
+        Commodity:
+            2
+        Vehicle:
+            0
+ (v:1)
+role_info_attributes 22 serialization::\
+archive 15 0 0 2 0 0 0 20 reconfiguration cost 1.56000000000000000e+03 6 safety 1.00000000000000000e+00
+roles 22 serialization::\
+archive 15 0 0 0 0
+tagged_roles 22 serialization::archive 15 0 0 2 0 0 0 8 assigned 0 0 2 0 0 0 0 0 5 http: 45 //www.rock-robotics.org/\
+2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_0 8 required 2 0 5 http: \
+45 //www.rock-robotics.org/2017/11/vrp#Commodity 2 11 Commodity_2 5 http: 43 //www.rock-robotics.org/2017/11/vrp#Vehicle 0 9 Vehicle_\
+0
+tuple 22 serialization::archive 15 0 0 4.00000000000000000e+01 1.20000000000000000e+01 0.00000000000000000e+00 2 l1 8 LOCATION \
+0 0 2 t1 0 0 2" [key="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:0)",
+label="capacity: +inf
+    roles (assigned):
+        Commodity:
+            2
+ (e:0)",
+lp="6478,3655.5",
+pos="e,6425.5,3600.3 6425.5,3710.8 6425.5,3678.1 6425.5,3643.5 6425.5,3610.5"];
+}

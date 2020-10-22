@@ -1,0 +1,3109 @@
+digraph GraphvizGraph {
+	graph [bb="0,0,20538,490",
+		concentrate=false,
+		dpi="96,0",
+		overlap=false,
+		pad="0,2",
+		root="PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:79)",
+		splines=true
+	];
+	node [fixedsize=false,
+		label="\N",
+		pin=false,
+		pos="0,0",
+		shape=box,
+		width=0
+	];
+	edge [label=o];
+	"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:79)"	 [height=2.4028,
+		pos="174,403.5",
+		width=4.8333];
+	"
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:78)"	 [height=2.8472,
+		pos="357,133",
+		width=4.625];
+	"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:79)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:78)" [key="inducedBy (e:57)",
+	label="inducedBy (e:57)",
+	lp="302.5,291.5",
+	pos="e,287.49,235.74 232.66,316.8 248.28,293.71 265.36,268.45 281.74,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:77)" [height=2.4028,
+	pos="540,403.5",
+	width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:77)" -> "
+SpatioTemporalRequirement (id:0)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:78)" [key="inducedBy (e:56)",
+label="inducedBy (e:56)",
+lp="512.5,291.5",
+pos="e,426.51,235.74 481.34,316.8 465.72,293.71 448.64,268.45 432.26,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:76)" [height=2.4028,
+pos="906,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:75)" [height=3.6944,
+pos="1449,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:76)" -> "
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:75)" [key="inducedBy (e:55)",
+label="inducedBy (e:55)",
+lp="1192.5,291.5",
+pos="e,1282.2,216.1 1079.7,316.98 1141.5,286.19 1211.1,251.51 1273.1,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:74)" [height=2.4028,
+pos="1272,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:74)" -> "
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:75)" [key="inducedBy (e:54)",
+label="inducedBy (e:54)",
+lp="1397.5,291.5",
+pos="e,1362,266.02 1328.7,316.8 1337.6,303.23 1347,288.92 1356.4,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:73)" [height=2.4028,
+pos="1626,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:73)" -> "
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:75)" [key="inducedBy (e:53)",
+label="inducedBy (e:53)",
+lp="1601.5,291.5",
+pos="e,1536,266.02 1569.3,316.8 1560.4,303.23 1551,288.92 1541.6,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:72)" [height=2.4028,
+pos="1968,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:72)" -> "
+SpatioTemporalRequirement (id:1)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:75)" [key="inducedBy (e:52)",
+label="inducedBy (e:52)",
+lp="1802.5,291.5",
+pos="e,1615.7,219.87 1805.9,319.02 1748.3,289.02 1683.3,255.11 1624.6,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:71)" [height=2.4028,
+pos="2310,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:2)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:70)" [height=2.8472,
+pos="2481,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:71)" -> "
+SpatioTemporalRequirement (id:2)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:70)" [key="inducedBy (e:51)",
+label="inducedBy (e:51)",
+lp="2433.5,291.5",
+pos="e,2416.1,235.74 2364.8,316.8 2379.4,293.71 2395.4,268.45 2410.7,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:69)" [height=2.4028,
+pos="2652,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:69)" -> "
+SpatioTemporalRequirement (id:2)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:70)" [key="inducedBy (e:50)",
+label="inducedBy (e:50)",
+lp="2629.5,291.5",
+pos="e,2545.9,235.74 2597.2,316.8 2582.6,293.71 2566.6,268.45 2551.3,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:68)" [height=2.4028,
+pos="3006,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:3)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:67)" [height=3.6944,
+pos="3549,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:68)" -> "
+SpatioTemporalRequirement (id:3)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:67)" [key="inducedBy (e:49)",
+label="inducedBy (e:49)",
+lp="3292.5,291.5",
+pos="e,3382.2,216.1 3179.7,316.98 3241.5,286.19 3311.1,251.51 3373.1,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:66)" [height=2.4028,
+pos="3372,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:66)" -> "
+SpatioTemporalRequirement (id:3)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:67)" [key="inducedBy (e:48)",
+label="inducedBy (e:48)",
+lp="3497.5,291.5",
+pos="e,3462,266.02 3428.7,316.8 3437.6,303.23 3447,288.92 3456.4,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:65)" [height=2.4028,
+pos="3726,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t0,t1) (v:65)" -> "
+SpatioTemporalRequirement (id:3)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:67)" [key="inducedBy (e:47)",
+label="inducedBy (e:47)",
+lp="3701.5,291.5",
+pos="e,3636,266.02 3669.3,316.8 3660.4,303.23 3651,288.92 3641.6,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:64)" [height=2.4028,
+pos="4068,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t0,t1) (v:64)" -> "
+SpatioTemporalRequirement (id:3)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t0
+    to:   t1
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:67)" [key="inducedBy (e:46)",
+label="inducedBy (e:46)",
+lp="3902.5,291.5",
+pos="e,3715.7,219.87 3905.9,319.02 3848.3,289.02 3783.3,255.11 3724.6,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 1
+            restriction: \
+MIN
+    @[t7,t8) (v:63)" [height=2.4028,
+pos="4410,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:4)
+    SpatialRequirement:
+        Location: l3
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:62)" [height=2.8472,
+pos="4581,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 1
+            restriction: \
+MIN
+    @[t7,t8) (v:63)" -> "
+SpatioTemporalRequirement (id:4)
+    SpatialRequirement:
+        Location: l3
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:62)" [key="inducedBy (e:45)",
+label="inducedBy (e:45)",
+lp="4533.5,291.5",
+pos="e,4516.1,235.74 4464.8,316.8 4479.4,293.71 4495.4,268.45 4510.7,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t7,t8) (v:61)" [height=2.4028,
+pos="4752,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t7,t8) (v:61)" -> "
+SpatioTemporalRequirement (id:4)
+    SpatialRequirement:
+        Location: l3
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:62)" [key="inducedBy (e:44)",
+label="inducedBy (e:44)",
+lp="4729.5,291.5",
+pos="e,4645.9,235.74 4697.2,316.8 4682.6,293.71 4666.6,268.45 4651.3,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 2
+            restriction: \
+MIN
+    @[t8,t9) (v:60)" [height=2.4028,
+pos="5094,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:5)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:59)" [height=2.8472,
+pos="5265,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 2
+            restriction: \
+MIN
+    @[t8,t9) (v:60)" -> "
+SpatioTemporalRequirement (id:5)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:59)" [key="inducedBy (e:43)",
+label="inducedBy (e:43)",
+lp="5217.5,291.5",
+pos="e,5200.1,235.74 5148.8,316.8 5163.4,293.71 5179.4,268.45 5194.7,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:58)" [height=2.4028,
+pos="5436,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:58)" -> "
+SpatioTemporalRequirement (id:5)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:59)" [key="inducedBy (e:42)",
+label="inducedBy (e:42)",
+lp="5413.5,291.5",
+pos="e,5329.9,235.74 5381.2,316.8 5366.6,293.71 5350.6,268.45 5335.3,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t4,t5) (v:57)" [height=2.4028,
+pos="5778,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:6)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:56)" [height=2.8472,
+pos="5949,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t4,t5) (v:57)" -> "
+SpatioTemporalRequirement (id:6)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:56)" [key="inducedBy (e:41)",
+label="inducedBy (e:41)",
+lp="5901.5,291.5",
+pos="e,5884.1,235.74 5832.8,316.8 5847.4,293.71 5863.4,268.45 5878.7,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:55)" [height=2.4028,
+pos="6120,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:55)" -> "
+SpatioTemporalRequirement (id:6)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:56)" [key="inducedBy (e:40)",
+label="inducedBy (e:40)",
+lp="6097.5,291.5",
+pos="e,6013.9,235.74 6065.2,316.8 6050.6,293.71 6034.6,268.45 6019.3,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t2,t3) (v:54)" [height=2.4028,
+pos="6474,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:53)" [height=3.6944,
+pos="7017,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t2,t3) (v:54)" -> "
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:53)" [key="inducedBy (e:39)",
+label="inducedBy (e:39)",
+lp="6760.5,291.5",
+pos="e,6850.2,216.1 6647.7,316.98 6709.5,286.19 6779.1,251.51 6841.1,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:52)" [height=2.4028,
+pos="6840,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:52)" -> "
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:53)" [key="inducedBy (e:38)",
+label="inducedBy (e:38)",
+lp="6965.5,291.5",
+pos="e,6930,266.02 6896.7,316.8 6905.6,303.23 6915,288.92 6924.4,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:51)" [height=2.4028,
+pos="7194,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:51)" -> "
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:53)" [key="inducedBy (e:37)",
+label="inducedBy (e:37)",
+lp="7169.5,291.5",
+pos="e,7104,266.02 7137.3,316.8 7128.4,303.23 7119,288.92 7109.6,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:50)" [height=2.4028,
+pos="7536,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:50)" -> "
+SpatioTemporalRequirement (id:7)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:53)" [key="inducedBy (e:36)",
+label="inducedBy (e:36)",
+lp="7370.5,291.5",
+pos="e,7183.7,219.87 7373.9,319.02 7316.3,289.02 7251.3,255.11 7192.6,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t4,t5) (v:49)" [height=2.4028,
+pos="7890,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:48)" [height=3.6944,
+pos="8433,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t4,t5) (v:49)" -> "
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:48)" [key="inducedBy (e:35)",
+label="inducedBy (e:35)",
+lp="8176.5,291.5",
+pos="e,8266.2,216.1 8063.7,316.98 8125.5,286.19 8195.1,251.51 8257.1,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:47)" [height=2.4028,
+pos="8256,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:47)" -> "
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:48)" [key="inducedBy (e:34)",
+label="inducedBy (e:34)",
+lp="8381.5,291.5",
+pos="e,8346,266.02 8312.7,316.8 8321.6,303.23 8331,288.92 8340.4,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t4,t5) (v:46)" [height=2.4028,
+pos="8610,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t4,t5) (v:46)" -> "
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:48)" [key="inducedBy (e:33)",
+label="inducedBy (e:33)",
+lp="8585.5,291.5",
+pos="e,8520,266.02 8553.3,316.8 8544.4,303.23 8535,288.92 8525.6,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:45)" [height=2.4028,
+pos="8952,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:45)" -> "
+SpatioTemporalRequirement (id:8)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:48)" [key="inducedBy (e:32)",
+label="inducedBy (e:32)",
+lp="8786.5,291.5",
+pos="e,8599.7,219.87 8789.9,319.02 8732.3,289.02 8667.3,255.11 8608.6,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t4,t5) (v:44)" [height=2.4028,
+pos="9306,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:9)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:43)" [height=2.8472,
+pos="9489,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t4,t5) (v:44)" -> "
+SpatioTemporalRequirement (id:9)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:43)" [key="inducedBy (e:31)",
+label="inducedBy (e:31)",
+lp="9434.5,291.5",
+pos="e,9419.5,235.74 9364.7,316.8 9380.3,293.71 9397.4,268.45 9413.7,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:42)" [height=2.4028,
+pos="9672,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t4,t5) (v:42)" -> "
+SpatioTemporalRequirement (id:9)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t4
+    to:   t5
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:43)" [key="inducedBy (e:30)",
+label="inducedBy (e:30)",
+lp="9644.5,291.5",
+pos="e,9558.5,235.74 9613.3,316.8 9597.7,293.71 9580.6,268.45 9564.3,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t3,t4) (v:41)" [height=2.4028,
+pos="10038,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:10)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t3
+    to:   t4
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:40)" [height=2.8472,
+pos="10221,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t3,t4) (v:41)" -> "
+SpatioTemporalRequirement (id:10)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t3
+    to:   t4
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:40)" [key="inducedBy (e:29)",
+label="inducedBy (e:29)",
+lp="10166,291.5",
+pos="e,10151,235.74 10097,316.8 10112,293.71 10129,268.45 10146,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t3,t4) (v:39)" [height=2.4028,
+pos="10404,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t3,t4) (v:39)" -> "
+SpatioTemporalRequirement (id:10)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t3
+    to:   t4
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:40)" [key="inducedBy (e:28)",
+label="inducedBy (e:28)",
+lp="10376,291.5",
+pos="e,10291,235.74 10345,316.8 10330,293.71 10313,268.45 10296,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:38)" [height=2.4028,
+pos="10758,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:11)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:37)" [height=2.8472,
+pos="10929,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:38)" -> "
+SpatioTemporalRequirement (id:11)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:37)" [key="inducedBy (e:27)",
+label="inducedBy (e:27)",
+lp="10882,291.5",
+pos="e,10864,235.74 10813,316.8 10827,293.71 10843,268.45 10859,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:36)" [height=2.4028,
+pos="11100,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:36)" -> "
+SpatioTemporalRequirement (id:11)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:37)" [key="inducedBy (e:26)",
+label="inducedBy (e:26)",
+lp="11078,291.5",
+pos="e,10994,235.74 11045,316.8 11031,293.71 11015,268.45 10999,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t7,t8) (v:35)" [height=2.4028,
+pos="11454,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:12)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:34)" [height=2.8472,
+pos="11637,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t7,t8) (v:35)" -> "
+SpatioTemporalRequirement (id:12)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:34)" [key="inducedBy (e:25)",
+label="inducedBy (e:25)",
+lp="11582,291.5",
+pos="e,11567,235.74 11513,316.8 11528,293.71 11545,268.45 11562,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t7,t8) (v:33)" [height=2.4028,
+pos="11820,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t7,t8) (v:33)" -> "
+SpatioTemporalRequirement (id:12)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:34)" [key="inducedBy (e:24)",
+label="inducedBy (e:24)",
+lp="11792,291.5",
+pos="e,11707,235.74 11761,316.8 11746,293.71 11729,268.45 11712,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t7,t8) (v:32)" [height=2.4028,
+pos="12186,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:13)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:31)" [height=2.8472,
+pos="12369,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t7,t8) (v:32)" -> "
+SpatioTemporalRequirement (id:13)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:31)" [key="inducedBy (e:23)",
+label="inducedBy (e:23)",
+lp="12314,291.5",
+pos="e,12299,235.74 12245,316.8 12260,293.71 12277,268.45 12294,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t7,t8) (v:30)" [height=2.4028,
+pos="12552,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t7,t8) (v:30)" -> "
+SpatioTemporalRequirement (id:13)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t7
+    to:   t8
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:31)" [key="inducedBy (e:22)",
+label="inducedBy (e:22)",
+lp="12524,291.5",
+pos="e,12439,235.74 12493,316.8 12478,293.71 12461,268.45 12444,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t1,t2) (v:29)" [height=2.4028,
+pos="12918,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:14)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t1
+    to:   t2
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:28)" [height=2.8472,
+pos="13101,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 1
+            restriction: \
+MIN
+    @[t1,t2) (v:29)" -> "
+SpatioTemporalRequirement (id:14)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t1
+    to:   t2
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:28)" [key="inducedBy (e:21)",
+label="inducedBy (e:21)",
+lp="13046,291.5",
+pos="e,13031,235.74 12977,316.8 12992,293.71 13009,268.45 13026,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t1,t2) (v:27)" [height=2.4028,
+pos="13284,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t1,t2) (v:27)" -> "
+SpatioTemporalRequirement (id:14)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t1
+    to:   t2
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:28)" [key="inducedBy (e:20)",
+label="inducedBy (e:20)",
+lp="13256,291.5",
+pos="e,13171,235.74 13225,316.8 13210,293.71 13193,268.45 13176,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t3,t4) (v:26)" [height=2.4028,
+pos="13638,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:15)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t3
+    to:   t4
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:25)" [height=2.8472,
+pos="13809,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 1
+            restriction: \
+MIN
+    @[t3,t4) (v:26)" -> "
+SpatioTemporalRequirement (id:15)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t3
+    to:   t4
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:25)" [key="inducedBy (e:19)",
+label="inducedBy (e:19)",
+lp="13760,291.5",
+pos="e,13744,235.74 13693,316.8 13707,293.71 13723,268.45 13739,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t3,t4) (v:24)" [height=2.4028,
+pos="13980,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l4
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t3,t4) (v:24)" -> "
+SpatioTemporalRequirement (id:15)
+    SpatialRequirement:
+        Location: l4
+TemporalRequirement:
+    from: t3
+    to:   t4
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:25)" [key="inducedBy (e:18)",
+label="inducedBy (e:18)",
+lp="13956,291.5",
+pos="e,13874,235.74 13925,316.8 13911,293.71 13895,268.45 13879,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:23)" [height=2.4028,
+pos="14334,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:16)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:22)" [height=3.6944,
+pos="14877,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:23)" -> "
+SpatioTemporalRequirement (id:16)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:22)" [key="inducedBy (e:17)",
+label="inducedBy (e:17)",
+lp="14620,291.5",
+pos="e,14710,216.1 14508,316.98 14569,286.19 14639,251.51 14701,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:21)" [height=2.4028,
+pos="14700,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:21)" -> "
+SpatioTemporalRequirement (id:16)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:22)" [key="inducedBy (e:16)",
+label="inducedBy (e:16)",
+lp="14824,291.5",
+pos="e,14790,266.02 14757,316.8 14766,303.23 14775,288.92 14784,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:20)" [height=2.4028,
+pos="15054,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 1
+            restriction: \
+MIN
+    @[t2,t3) (v:20)" -> "
+SpatioTemporalRequirement (id:16)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:22)" [key="inducedBy (e:15)",
+label="inducedBy (e:15)",
+lp="15028,291.5",
+pos="e,14964,266.02 14997,316.8 14988,303.23 14979,288.92 14970,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:19)" [height=2.4028,
+pos="15396,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l1
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t2,t3) (v:19)" -> "
+SpatioTemporalRequirement (id:16)
+    SpatialRequirement:
+        Location: l1
+TemporalRequirement:
+    from: t2
+    to:   t3
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:22)" [key="inducedBy (e:14)",
+label="inducedBy (e:14)",
+lp="15230,291.5",
+pos="e,15044,219.87 15234,319.02 15176,289.02 15111,255.11 15053,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 1
+            restriction: \
+MIN
+    @[t8,t9) (v:18)" [height=2.4028,
+pos="15738,403.5",
+width=4.5];
+"
+SpatioTemporalRequirement (id:17)
+    SpatialRequirement:
+        Location: l3
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:17)" [height=2.8472,
+pos="15909,133",
+width=4.2917];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 1
+            restriction: \
+MIN
+    @[t8,t9) (v:18)" -> "
+SpatioTemporalRequirement (id:17)
+    SpatialRequirement:
+        Location: l3
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:17)" [key="inducedBy (e:13)",
+label="inducedBy (e:13)",
+lp="15860,291.5",
+pos="e,15844,235.74 15793,316.8 15807,293.71 15823,268.45 15839,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:16)" [height=2.4028,
+pos="16080,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l3
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:16)" -> "
+SpatioTemporalRequirement (id:17)
+    SpatialRequirement:
+        Location: l3
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:17)" [key="inducedBy (e:12)",
+label="inducedBy (e:12)",
+lp="16056,291.5",
+pos="e,15974,235.74 16025,316.8 16011,293.71 15995,268.45 15979,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t5,t6) (v:15)" [height=2.4028,
+pos="16434,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:18)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t5
+    to:   t6
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:14)" [height=3.6944,
+pos="16977,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t5,t6) (v:15)" -> "
+SpatioTemporalRequirement (id:18)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t5
+    to:   t6
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:14)" [key="inducedBy (e:11)",
+label="inducedBy (e:11)",
+lp="16720,291.5",
+pos="e,16810,216.1 16608,316.98 16669,286.19 16739,251.51 16801,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t5,t6) (v:13)" [height=2.4028,
+pos="16800,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t5,t6) (v:13)" -> "
+SpatioTemporalRequirement (id:18)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t5
+    to:   t6
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:14)" [key="inducedBy (e:10)",
+label="inducedBy (e:10)",
+lp="16924,291.5",
+pos="e,16890,266.02 16857,316.8 16866,303.23 16875,288.92 16884,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t5,t6) (v:12)" [height=2.4028,
+pos="17154,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t5,t6) (v:12)" -> "
+SpatioTemporalRequirement (id:18)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t5
+    to:   t6
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:14)" [key="inducedBy (e:9)",
+label="inducedBy (e:9)",
+lp="17125,291.5",
+pos="e,17064,266.02 17097,316.8 17088,303.23 17079,288.92 17070,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t5,t6) (v:11)" [height=2.4028,
+pos="17496,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t5,t6) (v:11)" -> "
+SpatioTemporalRequirement (id:18)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t5
+    to:   t6
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:14)" [key="inducedBy (e:8)",
+label="inducedBy (e:8)",
+lp="17326,291.5",
+pos="e,17144,219.87 17334,319.02 17276,289.02 17211,255.11 17153,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t6,t7) (v:10)" [height=2.4028,
+pos="17850,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:19)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t6
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:9)" [height=3.6944,
+pos="18393,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t6,t7) (v:10)" -> "
+SpatioTemporalRequirement (id:19)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t6
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:9)" [key="inducedBy (e:7)",
+label="inducedBy (e:7)",
+lp="18132,291.5",
+pos="e,18226,216.1 18024,316.98 18085,286.19 18155,251.51 18217,220.63"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t6,t7) (v:8)" [height=2.4028,
+pos="18216,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t6,t7) (v:8)" -> "
+SpatioTemporalRequirement (id:19)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t6
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:9)" [key="inducedBy (e:6)",
+label="inducedBy (e:6)",
+lp="18337,291.5",
+pos="e,18306,266.02 18273,316.8 18282,303.23 18291,288.92 18300,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t6,t7) (v:7)" [height=2.4028,
+pos="18570,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t6,t7) (v:7)" -> "
+SpatioTemporalRequirement (id:19)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t6
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:9)" [key="inducedBy (e:5)",
+label="inducedBy (e:5)",
+lp="18541,291.5",
+pos="e,18480,266.02 18513,316.8 18504,303.23 18495,288.92 18486,274.51"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t6,t7) (v:6)" [height=2.4028,
+pos="18912,403.5",
+width=4.5];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Vehicle
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t6,t7) (v:6)" -> "
+SpatioTemporalRequirement (id:19)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t6
+    to:   t7
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+    http://\
+www.rock-robotics.org/2017/11/vrp#Vehicle
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:9)" [key="inducedBy (e:4)",
+label="inducedBy (e:4)",
+lp="18742,291.5",
+pos="e,18560,219.87 18750,319.02 18692,289.02 18627,255.11 18569,224.55"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t8,t9) (v:5)" [height=2.4028,
+pos="19266,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:20)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:4)" [height=2.8472,
+pos="19449,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 1
+            restriction: \
+MIN
+    @[t8,t9) (v:5)" -> "
+SpatioTemporalRequirement (id:20)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:4)" [key="inducedBy (e:3)",
+label="inducedBy (e:3)",
+lp="19390,291.5",
+pos="e,19379,235.74 19325,316.8 19340,293.71 19357,268.45 19374,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:3)" [height=2.4028,
+pos="19632,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l2
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:3)" -> "
+SpatioTemporalRequirement (id:20)
+    SpatialRequirement:
+        Location: l2
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 1
+        maxCardinality: 18446744073709551615
+
+ (v:4)" [key="inducedBy (e:2)",
+label="inducedBy (e:2)",
+lp="19600,291.5",
+pos="e,19519,235.74 19573,316.8 19558,293.71 19541,268.45 19524,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t8,t9) (v:2)" [height=2.4028,
+pos="19998,403.5",
+width=4.8333];
+"
+SpatioTemporalRequirement (id:21)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:1)" [height=2.8472,
+pos="20181,133",
+width=4.625];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 2
+            restriction: \
+MIN
+    @[t8,t9) (v:2)" -> "
+SpatioTemporalRequirement (id:21)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:1)" [key="inducedBy (e:1)",
+label="inducedBy (e:1)",
+lp="20122,291.5",
+pos="e,20111,235.74 20057,316.8 20072,293.71 20089,268.45 20106,244.25"];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:0)" [height=2.4028,
+pos="20364,403.5",
+width=4.8333];
+"PERSISTENCE_CONDITION
+    STATE_VARIABLE
+        http://www.rock-robotics.org/2017/11/vrp#Commodity
+        LocationCardinality
+    \
+OBJECT_VARIABLE
+        unknown
+        LocationCardinality
+            location:    l0
+            cardinality: 18446744073709551615
+            \
+restriction: MAX
+    @[t8,t9) (v:0)" -> "
+SpatioTemporalRequirement (id:21)
+    SpatialRequirement:
+        Location: l0
+TemporalRequirement:
+    from: t8
+    to:   t9
+Resources: 
+    \
+http://www.rock-robotics.org/2017/11/vrp#Commodity
+        minCardinality: 2
+        maxCardinality: 18446744073709551615
+
+ (v:1)" [key="inducedBy (e:0)",
+label="inducedBy (e:0)",
+lp="20332,291.5",
+pos="e,20251,235.74 20305,316.8 20290,293.71 20273,268.45 20256,244.25"];
+}

@@ -22,7 +22,7 @@
                 <max>3</max>
             </Commodity>
         </agentPool>
-        <samplingDensity>0.8</samplingDensity>
+        <samplingDensity>0.3</samplingDensity>
         <temporalConstraints>
             <nogaps>true</nogaps>
         </temporalConstraints>

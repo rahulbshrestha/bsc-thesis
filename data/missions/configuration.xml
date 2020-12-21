@@ -38,7 +38,7 @@
             <bounded>true</bounded>
           </immobile>
           <mobile>
-            <bound-offset>0</bound-offset>
+            <bound-offset>5</bound-offset>
             <bounded>true</bounded>
           </mobile>
         </role-usage>

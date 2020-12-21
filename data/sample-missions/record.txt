@@ -1,0 +1,5 @@
+
+size, mission-name, solution-name
+
+small, mission-1.xml, /tmp/20201201_004211+0100-templ
+small, mission-2.xml, 20201201_002447+0100-templ

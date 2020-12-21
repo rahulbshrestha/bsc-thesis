@@ -330,15 +330,17 @@ dirname = os.path.join( os.path.dirname(__file__),"output")
 if not os.path.isdir(dirname):
     os.mkdir(dirname)
 
-solution_dir = "/tmp/20201113_234323+0100-templ" #/tmp/20200909_173523+0200-templ"
-dataPsi0, successDataPsi0, noSuccessDataPsi0 = getData(f"{solution_dir}/solution_analysis.log")
-dataPsi1, successDataPsi1, noSuccessDataPsi1 = getData(f"{solution_dir}/solution_analysis.log")
-dataPsi2, successDataPsi2, noSuccessDataPsi2 = getData(f"{solution_dir}/solution_analysis.log")
+solution_dir0 = "/tmp/20201206_100306+0100-templ" #/tmp/20200909_173523+0200-templ" original mission 
+solution_dir1 = "/tmp/20201206_134503+0100-templ" # < 1/2 LP constraints removed
+solution_dir2 = "/tmp/20201206_135216+0100-templ" # > 1/2 LP constraints removed
+dataPsi0, successDataPsi0, noSuccessDataPsi0 = getData(f"{solution_dir0}/solution_analysis.log")
+dataPsi1, successDataPsi1, noSuccessDataPsi1 = getData(f"{solution_dir1}/solution_analysis.log")
+dataPsi2, successDataPsi2, noSuccessDataPsi2 = getData(f"{solution_dir2}/solution_analysis.log")
 
 dataCollection = getDataCollection(
-        [f"{solution_dir}/solution_analysis.log",
-         f"{solution_dir}/solution_analysis.log",
-         f"{solution_dir}/solution_analysis.log"
+        [f"{solution_dir0}/solution_analysis.log",
+         f"{solution_dir1}/solution_analysis.log",
+         f"{solution_dir2}/solution_analysis.log"
         ])
 
 numberOfSubplots = len(dataCollection)
